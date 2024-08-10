@@ -1,0 +1,7732 @@
+[
+  {
+    "Name": "Reliance Industries",
+    "Sector": "Telecom",
+    "Industry": "Telecom - Services"
+  },
+  {
+    "Name": "Tata Consultancy Services",
+    "Sector": "IT",
+    "Industry": "IT - Software"
+  },
+  {
+    "Name": "HDFC Bank",
+    "Sector": "Banks - Pvt.",
+    "Industry": "Banks - Private Sector"
+  },
+  {
+    "Name": "Bharti Airtel",
+    "Sector": "Telecom",
+    "Industry": "Telecom - Services"
+  },
+  {
+    "Name": "ICICI Bank",
+    "Sector": "Banks - Pvt.",
+    "Industry": "Banks - Private Sector"
+  },
+  {
+    "Name": "State Bank of India",
+    "Sector": "Banks - PSU",
+    "Industry": "Banks - Public Sector"
+  },
+  {
+    "Name": "Life Insurance Corporation of India",
+    "Sector": "Finance",
+    "Industry": "Insurance"
+  },
+  {
+    "Name": "Infosys",
+    "Sector": "IT",
+    "Industry": "IT - Software"
+  },
+  {
+    "Name": "Hindustan Unilever",
+    "Sector": "Consumer Goods",
+    "Industry": "Personal Care"
+  },
+  {
+    "Name": "ITC",
+    "Sector": "Consumer Goods",
+    "Industry": "Cigarettes"
+  },
+  {
+    "Name": "Larsen & Toubro",
+    "Sector": "Infrastructure",
+    "Industry": "Infrastructure"
+  },
+  {
+    "Name": "Bajaj Finance",
+    "Sector": "Finance",
+    "Industry": "Finance & Investments"
+  },
+  {
+    "Name": "Maruti Suzuki India",
+    "Sector": "Automobiles",
+    "Industry": "Passenger Vehicles"
+  },
+  {
+    "Name": "HCL Technologies",
+    "Sector": "IT",
+    "Industry": "IT - Software"
+  },
+  {
+    "Name": "Adani Enterprises",
+    "Sector": "Misc.",
+    "Industry": "Diversified"
+  },
+  {
+    "Name": "Axis Bank",
+    "Sector": "Banks - Pvt.",
+    "Industry": "Banks - Private Sector"
+  },
+  {
+    "Name": "Mahindra & Mahindra",
+    "Sector": "Automobiles",
+    "Industry": "Passenger Vehicles"
+  },
+  {
+    "Name": "Sun Pharmaceutical Industries",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "NTPC",
+    "Sector": "Power",
+    "Industry": "Power Generation"
+  },
+  {
+    "Name": "Hindustan Aeronautics",
+    "Sector": "Defence",
+    "Industry": "Defence"
+  },
+  {
+    "Name": "Oil And Natural Gas Corporation",
+    "Sector": "Industrials",
+    "Industry": "Oil & Gas"
+  },
+  {
+    "Name": "Kotak Mahindra Bank",
+    "Sector": "Banks - Pvt.",
+    "Industry": "Banks - Private Sector"
+  },
+  {
+    "Name": "Tata Motors",
+    "Sector": "Automobiles",
+    "Industry": "Commercial Vehicles"
+  },
+  {
+    "Name": "UltraTech Cement",
+    "Sector": "Cement",
+    "Industry": "Cement"
+  },
+  {
+    "Name": "Titan Company",
+    "Sector": "Consumer Goods",
+    "Industry": "Jewellery"
+  },
+  {
+    "Name": "Adani Ports & Special Economic Zone",
+    "Sector": "Infrastructure",
+    "Industry": "Shipping"
+  },
+  {
+    "Name": "Avenue Supermarts",
+    "Sector": "Retail",
+    "Industry": "Retail"
+  },
+  {
+    "Name": "Coal India",
+    "Sector": "Metal",
+    "Industry": "Mining & Mineral"
+  },
+  {
+    "Name": "Power Grid Corporation of India",
+    "Sector": "Power",
+    "Industry": "Power Infra, Trans. Equipment & Services"
+  },
+  {
+    "Name": "Adani Power",
+    "Sector": "Power",
+    "Industry": "Power Generation"
+  },
+  {
+    "Name": "Adani Green Energy",
+    "Sector": "Power",
+    "Industry": "Power Generation"
+  },
+  {
+    "Name": "Asian Paints",
+    "Sector": "B. Mat*",
+    "Industry": "Paints"
+  },
+  {
+    "Name": "Hindustan Zinc",
+    "Sector": "Metal",
+    "Industry": "Non Ferrous Metals"
+  },
+  {
+    "Name": "Bajaj Auto",
+    "Sector": "Automobiles",
+    "Industry": "Passenger Vehicles"
+  },
+  {
+    "Name": "Siemens",
+    "Sector": "Industrials",
+    "Industry": "Electrical Equipments"
+  },
+  {
+    "Name": "Bajaj Finserv",
+    "Sector": "Finance",
+    "Industry": "Finance & Investments"
+  },
+  {
+    "Name": "Wipro",
+    "Sector": "IT",
+    "Industry": "IT - Software"
+  },
+  {
+    "Name": "Nestle India",
+    "Sector": "Consumer Goods",
+    "Industry": "Food Processing"
+  },
+  {
+    "Name": "Indian Oil Corporation",
+    "Sector": "Industrials",
+    "Industry": "Refineries"
+  },
+  {
+    "Name": "Tata Steel",
+    "Sector": "Metal",
+    "Industry": "Steel"
+  },
+  {
+    "Name": "Indian Railway Finance Corporation",
+    "Sector": "Railways",
+    "Industry": "Railways"
+  },
+  {
+    "Name": "Bharat Electronics",
+    "Sector": "Defence",
+    "Industry": "Defence"
+  },
+  {
+    "Name": "JSW Steel",
+    "Sector": "Metal",
+    "Industry": "Steel"
+  },
+  {
+    "Name": "DLF",
+    "Sector": "Realty",
+    "Industry": "Realty"
+  },
+  {
+    "Name": "Varun Beverages",
+    "Sector": "Consumer Goods",
+    "Industry": "Food Processing"
+  },
+  {
+    "Name": "ABB India",
+    "Sector": "Power",
+    "Industry": "Power Infra, Trans. Equipment & Services"
+  },
+  {
+    "Name": "Trent",
+    "Sector": "Retail",
+    "Industry": "Retail"
+  },
+  {
+    "Name": "Power Finance Corporation",
+    "Sector": "Finance",
+    "Industry": "Finance & Investments"
+  },
+  {
+    "Name": "Grasim Industries",
+    "Sector": "Misc.",
+    "Industry": "Diversified"
+  },
+  {
+    "Name": "Ambuja Cements",
+    "Sector": "Cement",
+    "Industry": "Cement"
+  },
+  {
+    "Name": "Vedanta",
+    "Sector": "Metal",
+    "Industry": "Mining & Mineral"
+  },
+  {
+    "Name": "InterGlobe Aviation",
+    "Sector": "Misc.",
+    "Industry": "Misc."
+  },
+  {
+    "Name": "Zomato",
+    "Sector": "Online",
+    "Industry": "Online"
+  },
+  {
+    "Name": "Pidilite Industries",
+    "Sector": "Chemicals",
+    "Industry": "Diversified Chemicals"
+  },
+  {
+    "Name": "Macrotech Developers",
+    "Sector": "Realty",
+    "Industry": "Realty"
+  },
+  {
+    "Name": "Hindalco Industries",
+    "Sector": "Metal",
+    "Industry": "Non Ferrous Metals"
+  },
+  {
+    "Name": "LTIMindtree",
+    "Sector": "IT",
+    "Industry": "IT - Software"
+  },
+  {
+    "Name": "Bank of Baroda",
+    "Sector": "Banks - PSU",
+    "Industry": "Banks - Public Sector"
+  },
+  {
+    "Name": "SBI Life Insurance Company",
+    "Sector": "Finance",
+    "Industry": "Insurance"
+  },
+  {
+    "Name": "GAIL (India)",
+    "Sector": "Industrials",
+    "Industry": "Gas Distribution"
+  },
+  {
+    "Name": "Tata Power Company",
+    "Sector": "Power",
+    "Industry": "Power Generation"
+  },
+  {
+    "Name": "Godrej Consumer Products",
+    "Sector": "Consumer Goods",
+    "Industry": "Personal Care"
+  },
+  {
+    "Name": "Punjab National Bank",
+    "Sector": "Banks - PSU",
+    "Industry": "Banks - Public Sector"
+  },
+  {
+    "Name": "REC",
+    "Sector": "Finance",
+    "Industry": "Finance & Investments"
+  },
+  {
+    "Name": "Bharat Petroleum Corporation",
+    "Sector": "Industrials",
+    "Industry": "Refineries"
+  },
+  {
+    "Name": "Eicher Motors",
+    "Sector": "Automobiles",
+    "Industry": "Passenger Vehicles"
+  },
+  {
+    "Name": "Tech Mahindra",
+    "Sector": "IT",
+    "Industry": "IT - Software"
+  },
+  {
+    "Name": "Britannia Industries",
+    "Sector": "Consumer Goods",
+    "Industry": "Food Processing"
+  },
+  {
+    "Name": "HDFC Life Insurance Company",
+    "Sector": "Finance",
+    "Industry": "Insurance"
+  },
+  {
+    "Name": "Indian Overseas Bank",
+    "Sector": "Banks - PSU",
+    "Industry": "Banks - Public Sector"
+  },
+  {
+    "Name": "Cipla",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "Divi's Laboratories",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "Cholamandalam Investment & Finance Company",
+    "Sector": "Finance",
+    "Industry": "Finance & Investments"
+  },
+  {
+    "Name": "JSW Energy",
+    "Sector": "Power",
+    "Industry": "Power Generation"
+  },
+  {
+    "Name": "TVS Motor Company",
+    "Sector": "Automobiles",
+    "Industry": "Passenger Vehicles"
+  },
+  {
+    "Name": "Samvardhana Motherson International",
+    "Sector": "Automobiles",
+    "Industry": "Auto Ancilliary"
+  },
+  {
+    "Name": "IndusInd Bank",
+    "Sector": "Banks - Pvt.",
+    "Industry": "Banks - Private Sector"
+  },
+  {
+    "Name": "Hero MotoCorp",
+    "Sector": "Automobiles",
+    "Industry": "Passenger Vehicles"
+  },
+  {
+    "Name": "Havells India",
+    "Sector": "Consumer Durables",
+    "Industry": "Consumer Durables"
+  },
+  {
+    "Name": "Adani Energy Solutions",
+    "Sector": "Power",
+    "Industry": "Power Infra, Trans. Equipment & Services"
+  },
+  {
+    "Name": "Vodafone Idea",
+    "Sector": "Telecom",
+    "Industry": "Telecom - Services"
+  },
+  {
+    "Name": "Union Bank of India",
+    "Sector": "Banks - PSU",
+    "Industry": "Banks - Public Sector"
+  },
+  {
+    "Name": "Zydus Lifesciences",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "Dabur India",
+    "Sector": "Consumer Goods",
+    "Industry": "Personal Care"
+  },
+  {
+    "Name": "Jindal Steel & Power",
+    "Sector": "Metal",
+    "Industry": "Steel"
+  },
+  {
+    "Name": "Bharat Heavy Electricals",
+    "Sector": "Industrials",
+    "Industry": "Electrical Equipments"
+  },
+  {
+    "Name": "Polycab India",
+    "Sector": "Industrials",
+    "Industry": "Cables"
+  },
+  {
+    "Name": "Cummins India",
+    "Sector": "Industrials",
+    "Industry": "Non-Electrical Equipments"
+  },
+  {
+    "Name": "Tata Consumer Products",
+    "Sector": "Consumer Goods",
+    "Industry": "Tea & Coffee"
+  },
+  {
+    "Name": "CG Power and Industrial Solutions",
+    "Sector": "Industrials",
+    "Industry": "Electrical Equipments"
+  },
+  {
+    "Name": "Adani Total Gas",
+    "Sector": "Industrials",
+    "Industry": "Gas Distribution"
+  },
+  {
+    "Name": "NHPC",
+    "Sector": "Power",
+    "Industry": "Power Generation"
+  },
+  {
+    "Name": "Shriram Finance",
+    "Sector": "Finance",
+    "Industry": "Finance & Investments"
+  },
+  {
+    "Name": "Dr. Reddy's Laboratories",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "Shree Cements",
+    "Sector": "Cement",
+    "Industry": "Cement"
+  },
+  {
+    "Name": "Torrent Pharmaceuticals",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "Bosch",
+    "Sector": "Automobiles",
+    "Industry": "Auto Ancilliary"
+  },
+  {
+    "Name": "IDBI Bank",
+    "Sector": "Banks - Pvt.",
+    "Industry": "Banks - Private Sector"
+  },
+  {
+    "Name": "Bajaj Holdings & Investment",
+    "Sector": "HoldCo*",
+    "Industry": "HoldCo*"
+  },
+  {
+    "Name": "United Spirits",
+    "Sector": "Consumer Goods",
+    "Industry": "Alcohol"
+  },
+  {
+    "Name": "Indus Towers",
+    "Sector": "Telecom",
+    "Industry": "Telecom - Equipment & Infra Services"
+  },
+  {
+    "Name": "Max Healthcare Institute",
+    "Sector": "Healthcare Delivery",
+    "Industry": "Healthcare Delivery"
+  },
+  {
+    "Name": "Mankind Pharma",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "Solar Industries India",
+    "Sector": "Chemicals",
+    "Industry": "Commodity Chemicals"
+  },
+  {
+    "Name": "Apollo Hospitals Enterprise",
+    "Sector": "Healthcare Delivery",
+    "Industry": "Healthcare Delivery"
+  },
+  {
+    "Name": "ICICI Prudential Life Insurance Company",
+    "Sector": "Finance",
+    "Industry": "Insurance"
+  },
+  {
+    "Name": "Indian Hotels Company",
+    "Sector": "Hotels",
+    "Industry": "Hotels"
+  },
+  {
+    "Name": "HDFC Asset Management Company",
+    "Sector": "Finance",
+    "Industry": "Asset Management Cos."
+  },
+  {
+    "Name": "ICICI Lombard General Insurance Company",
+    "Sector": "Finance",
+    "Industry": "Insurance"
+  },
+  {
+    "Name": "Godrej Properties",
+    "Sector": "Realty",
+    "Industry": "Realty"
+  },
+  {
+    "Name": "Tube Investments of India",
+    "Sector": "Misc.",
+    "Industry": "Misc."
+  },
+  {
+    "Name": "Oracle Financial Services Software",
+    "Sector": "IT",
+    "Industry": "IT - Software"
+  },
+  {
+    "Name": "Indian Railway Catering & Tourism Corporation",
+    "Sector": "Railways",
+    "Industry": "Railways"
+  },
+  {
+    "Name": "Rail Vikas Nigam",
+    "Sector": "Railways",
+    "Industry": "Railways"
+  },
+  {
+    "Name": "Info Edge (India)",
+    "Sector": "Online",
+    "Industry": "Online"
+  },
+  {
+    "Name": "Colgate-Palmolive (India)",
+    "Sector": "Consumer Goods",
+    "Industry": "Personal Care"
+  },
+  {
+    "Name": "Marico",
+    "Sector": "Consumer Goods",
+    "Industry": "Personal Care"
+  },
+  {
+    "Name": "Bharat Forge",
+    "Sector": "Automobiles",
+    "Industry": "Auto Ancilliary"
+  },
+  {
+    "Name": "Linde India",
+    "Sector": "Chemicals",
+    "Industry": "Commodity Chemicals"
+  },
+  {
+    "Name": "NMDC",
+    "Sector": "Metal",
+    "Industry": "Mining & Mineral"
+  },
+  {
+    "Name": "Mazagon Dock Shipbuilders",
+    "Sector": "Defence",
+    "Industry": "Defence"
+  },
+  {
+    "Name": "Prestige Estates Projects",
+    "Sector": "Realty",
+    "Industry": "Realty"
+  },
+  {
+    "Name": "Torrent Power",
+    "Sector": "Power",
+    "Industry": "Power Generation"
+  },
+  {
+    "Name": "Supreme Industries",
+    "Sector": "Industrials",
+    "Industry": "Plastic Products"
+  },
+  {
+    "Name": "Hindustan Petroleum Corporation",
+    "Sector": "Industrials",
+    "Industry": "Refineries"
+  },
+  {
+    "Name": "Oil India",
+    "Sector": "Industrials",
+    "Industry": "Oil & Gas"
+  },
+  {
+    "Name": "Schaeffler India",
+    "Sector": "Industrials",
+    "Industry": "Industrials"
+  },
+  {
+    "Name": "YES Bank",
+    "Sector": "Banks - Pvt.",
+    "Industry": "Banks - Private Sector"
+  },
+  {
+    "Name": "Aurobindo Pharma",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "Lupin",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "Indian Bank",
+    "Sector": "Banks - PSU",
+    "Industry": "Banks - Public Sector"
+  },
+  {
+    "Name": "SRF",
+    "Sector": "Chemicals",
+    "Industry": "Specialty Chemicals"
+  },
+  {
+    "Name": "Muthoot Finance",
+    "Sector": "Finance",
+    "Industry": "Finance & Investments"
+  },
+  {
+    "Name": "Ashok Leyland",
+    "Sector": "Automobiles",
+    "Industry": "Commercial Vehicles"
+  },
+  {
+    "Name": "Container Corporation of India",
+    "Sector": "Railways",
+    "Industry": "Railways"
+  },
+  {
+    "Name": "Oberoi Realty",
+    "Sector": "Realty",
+    "Industry": "Realty"
+  },
+  {
+    "Name": "SBI Cards and Payment Services",
+    "Sector": "Misc.",
+    "Industry": "Misc."
+  },
+  {
+    "Name": "General Insurance Corporation of India",
+    "Sector": "Finance",
+    "Industry": "Insurance"
+  },
+  {
+    "Name": "UCO Bank",
+    "Sector": "Banks - PSU",
+    "Industry": "Banks - Public Sector"
+  },
+  {
+    "Name": "Suzlon Energy",
+    "Sector": "Power",
+    "Industry": "Renewable Energy Equipment & Services"
+  },
+  {
+    "Name": "Dixon Technologies (India)",
+    "Sector": "Consumer Durables",
+    "Industry": "Consumer Durables"
+  },
+  {
+    "Name": "Jindal Stainless",
+    "Sector": "Metal",
+    "Industry": "Steel"
+  },
+  {
+    "Name": "Phoenix Mills",
+    "Sector": "Realty",
+    "Industry": "Realty"
+  },
+  {
+    "Name": "Steel Authority of India (SAIL)",
+    "Sector": "Metal",
+    "Industry": "Steel"
+  },
+  {
+    "Name": "Thermax",
+    "Sector": "Industrials",
+    "Industry": "Non-Electrical Equipments"
+  },
+  {
+    "Name": "JSW Infrastructure",
+    "Sector": "Infrastructure",
+    "Industry": "Infrastructure"
+  },
+  {
+    "Name": "Balkrishna Industries",
+    "Sector": "Automobiles",
+    "Industry": "Tyres"
+  },
+  {
+    "Name": "Aditya Birla Capital",
+    "Sector": "Finance",
+    "Industry": "Finance & Investments"
+  },
+  {
+    "Name": "PB Fintech",
+    "Sector": "Online",
+    "Industry": "Online"
+  },
+  {
+    "Name": "Alkem Laboratories",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "Astral",
+    "Sector": "Pipes",
+    "Industry": "Pipes"
+  },
+  {
+    "Name": "UNO Minda",
+    "Sector": "Automobiles",
+    "Industry": "Auto Ancilliary"
+  },
+  {
+    "Name": "Berger Paints (India)",
+    "Sector": "B. Mat*",
+    "Industry": "Paints"
+  },
+  {
+    "Name": "Abbott India",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "Bank of India",
+    "Sector": "Banks - PSU",
+    "Industry": "Banks - Public Sector"
+  },
+  {
+    "Name": "Central Bank of India",
+    "Sector": "Banks - PSU",
+    "Industry": "Banks - Public Sector"
+  },
+  {
+    "Name": "GMR Airports Infrastructure",
+    "Sector": "Infrastructure",
+    "Industry": "Infrastructure"
+  },
+  {
+    "Name": "Housing and Urban Development Corporation",
+    "Sector": "Housing Finance",
+    "Industry": "Housing Finance"
+  },
+  {
+    "Name": "Cochin Shipyard",
+    "Sector": "Defence",
+    "Industry": "Defence"
+  },
+  {
+    "Name": "United Breweries",
+    "Sector": "Consumer Goods",
+    "Industry": "Alcohol"
+  },
+  {
+    "Name": "PI Industries",
+    "Sector": "Chemicals",
+    "Industry": "Diversified Chemicals"
+  },
+  {
+    "Name": "IDFC First Bank",
+    "Sector": "Banks - Pvt.",
+    "Industry": "Banks - Private Sector"
+  },
+  {
+    "Name": "Procter & Gamble Hygiene & Healthcare",
+    "Sector": "Consumer Goods",
+    "Industry": "Personal Care"
+  },
+  {
+    "Name": "Bharti Hexacom",
+    "Sector": "Telecom",
+    "Industry": "Telecom - Services"
+  },
+  {
+    "Name": "Patanjali Foods",
+    "Sector": "Consumer Goods",
+    "Industry": "Edible Oil"
+  },
+  {
+    "Name": "MRF",
+    "Sector": "Automobiles",
+    "Industry": "Tyres"
+  },
+  {
+    "Name": "Tata Communications",
+    "Sector": "Telecom",
+    "Industry": "Telecom - Services"
+  },
+  {
+    "Name": "SJVN",
+    "Sector": "Power",
+    "Industry": "Power Generation"
+  },
+  {
+    "Name": "L&T Technology Services",
+    "Sector": "IT",
+    "Industry": "IT - Software"
+  },
+  {
+    "Name": "Honeywell Automation India",
+    "Sector": "Industrials",
+    "Industry": "Industrials"
+  },
+  {
+    "Name": "Sundaram Finance",
+    "Sector": "HoldCo*",
+    "Industry": "HoldCo*"
+  },
+  {
+    "Name": "The Fertilisers and Chemicals Travancore",
+    "Sector": "Fertilizers & Agro Chemicals",
+    "Industry": "Fertilizers & Agro Chemicals"
+  },
+  {
+    "Name": "ACC",
+    "Sector": "Cement",
+    "Industry": "Cement"
+  },
+  {
+    "Name": "Voltas",
+    "Sector": "Consumer Durables",
+    "Industry": "Consumer Durables"
+  },
+  {
+    "Name": "Au Small Finance Bank",
+    "Sector": "Finance",
+    "Industry": "SFB / Microfinance"
+  },
+  {
+    "Name": "FSN E-Commerce Ventures",
+    "Sector": "Online",
+    "Industry": "Online"
+  },
+  {
+    "Name": "Petronet LNG",
+    "Sector": "Industrials",
+    "Industry": "Gas Distribution"
+  },
+  {
+    "Name": "Indian Renewable Energy Development Agency",
+    "Sector": "Finance",
+    "Industry": "Finance & Investments"
+  },
+  {
+    "Name": "Escorts Kubota",
+    "Sector": "Agriculture",
+    "Industry": "Agri Machinery/Equip."
+  },
+  {
+    "Name": "Hitachi Energy India",
+    "Sector": "Industrials",
+    "Industry": "Electrical Equipments"
+  },
+  {
+    "Name": "Bank of Maharashtra",
+    "Sector": "Banks - PSU",
+    "Industry": "Banks - Public Sector"
+  },
+  {
+    "Name": "Exide Industries",
+    "Sector": "Automobiles",
+    "Industry": "Auto Ancilliary"
+  },
+  {
+    "Name": "MphasiS",
+    "Sector": "IT",
+    "Industry": "IT - Software"
+  },
+  {
+    "Name": "L&T Finance",
+    "Sector": "Finance",
+    "Industry": "Finance & Investments"
+  },
+  {
+    "Name": "Tata Elxsi",
+    "Sector": "IT",
+    "Industry": "IT - Software"
+  },
+  {
+    "Name": "GlaxoSmithKline Pharmaceuticals",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "Adani Wilmar",
+    "Sector": "Consumer Goods",
+    "Industry": "Edible Oil"
+  },
+  {
+    "Name": "Coromandel International",
+    "Sector": "Fertilizers & Agro Chemicals",
+    "Industry": "Fertilizers & Agro Chemicals"
+  },
+  {
+    "Name": "Gujarat Gas",
+    "Sector": "Industrials",
+    "Industry": "Gas Distribution"
+  },
+  {
+    "Name": "KEI Industries",
+    "Sector": "Industrials",
+    "Industry": "Cables"
+  },
+  {
+    "Name": "APL Apollo Tubes",
+    "Sector": "Pipes",
+    "Industry": "Pipes"
+  },
+  {
+    "Name": "Page Industries",
+    "Sector": "Textile",
+    "Industry": "Textile - Apparel & Products"
+  },
+  {
+    "Name": "Punjab & Sind Bank",
+    "Sector": "Banks - PSU",
+    "Industry": "Banks - Public Sector"
+  },
+  {
+    "Name": "Federal Bank",
+    "Sector": "Banks - Pvt.",
+    "Industry": "Banks - Private Sector"
+  },
+  {
+    "Name": "Tata Technologies",
+    "Sector": "IT",
+    "Industry": "IT - Software"
+  },
+  {
+    "Name": "UPL",
+    "Sector": "Fertilizers & Agro Chemicals",
+    "Industry": "Fertilizers & Agro Chemicals"
+  },
+  {
+    "Name": "Kalyan Jewellers India",
+    "Sector": "Consumer Goods",
+    "Industry": "Jewellery"
+  },
+  {
+    "Name": "3M India",
+    "Sector": "Misc.",
+    "Industry": "Diversified"
+  },
+  {
+    "Name": "GE T&D India",
+    "Sector": "Power",
+    "Industry": "Power Infra, Trans. Equipment & Services"
+  },
+  {
+    "Name": "Nippon Life India Asset Management",
+    "Sector": "Finance",
+    "Industry": "Asset Management Cos."
+  },
+  {
+    "Name": "KPIT Technologies",
+    "Sector": "IT",
+    "Industry": "IT - Software"
+  },
+  {
+    "Name": "IRB Infrastructure Developers",
+    "Sector": "Infrastructure",
+    "Industry": "Infrastructure"
+  },
+  {
+    "Name": "LIC Housing Finance",
+    "Sector": "Housing Finance",
+    "Industry": "Housing Finance"
+  },
+  {
+    "Name": "The New India Assurance Company",
+    "Sector": "Finance",
+    "Industry": "Insurance"
+  },
+  {
+    "Name": "Biocon",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "Sona BLW Precision Forgings",
+    "Sector": "Automobiles",
+    "Industry": "Auto Ancilliary"
+  },
+  {
+    "Name": "Fortis Healthcare",
+    "Sector": "Healthcare Delivery",
+    "Industry": "Healthcare Delivery"
+  },
+  {
+    "Name": "Endurance Technologies",
+    "Sector": "Automobiles",
+    "Industry": "Auto Ancilliary"
+  },
+  {
+    "Name": "Mangalore Refinery And Petrochemicals",
+    "Sector": "Industrials",
+    "Industry": "Refineries"
+  },
+  {
+    "Name": "AIA Engineering",
+    "Sector": "Industrials",
+    "Industry": "Industrials"
+  },
+  {
+    "Name": "BSE",
+    "Sector": "Finance",
+    "Industry": "Exchange"
+  },
+  {
+    "Name": "Mahindra & Mahindra Financial Services",
+    "Sector": "Finance",
+    "Industry": "Finance & Investments"
+  },
+  {
+    "Name": "Lloyds Metals & Energy",
+    "Sector": "Metal",
+    "Industry": "Steel"
+  },
+  {
+    "Name": "Global Health",
+    "Sector": "Healthcare Delivery",
+    "Industry": "Healthcare Delivery"
+  },
+  {
+    "Name": "Gujarat Fluorochemicals",
+    "Sector": "Chemicals",
+    "Industry": "Specialty Chemicals"
+  },
+  {
+    "Name": "Blue Star",
+    "Sector": "Consumer Durables",
+    "Industry": "Consumer Durables"
+  },
+  {
+    "Name": "Dalmia Bharat",
+    "Sector": "Cement",
+    "Industry": "Cement"
+  },
+  {
+    "Name": "National Aluminium Company",
+    "Sector": "Metal",
+    "Industry": "Non Ferrous Metals"
+  },
+  {
+    "Name": "Jubilant Foodworks",
+    "Sector": "Consumer Goods",
+    "Industry": "Restaurants"
+  },
+  {
+    "Name": "Glenmark Pharmaceuticals",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "Coforge",
+    "Sector": "IT",
+    "Industry": "IT - Software"
+  },
+  {
+    "Name": "Timken India",
+    "Sector": "Industrials",
+    "Industry": "Industrial Machinery"
+  },
+  {
+    "Name": "Max Financial Services",
+    "Sector": "Finance",
+    "Industry": "Insurance"
+  },
+  {
+    "Name": "SKF India",
+    "Sector": "Industrials",
+    "Industry": "Industrials"
+  },
+  {
+    "Name": "Tata Investment Corporation",
+    "Sector": "HoldCo*",
+    "Industry": "HoldCo*"
+  },
+  {
+    "Name": "Poonawalla Fincorp",
+    "Sector": "Finance",
+    "Industry": "Finance & Investments"
+  },
+  {
+    "Name": "Indraprastha Gas",
+    "Sector": "Industrials",
+    "Industry": "Gas Distribution"
+  },
+  {
+    "Name": "Carborundum Universal",
+    "Sector": "Industrials",
+    "Industry": "Non-Electrical Equipments"
+  },
+  {
+    "Name": "Apar Industries",
+    "Sector": "Power",
+    "Industry": "Power Infra, Trans. Equipment & Services"
+  },
+  {
+    "Name": "JK Cement",
+    "Sector": "Cement",
+    "Industry": "Cement"
+  },
+  {
+    "Name": "Aditya Birla Fashion",
+    "Sector": "Retail",
+    "Industry": "Retail"
+  },
+  {
+    "Name": "Deepak Nitrite",
+    "Sector": "Chemicals",
+    "Industry": "Commodity Chemicals"
+  },
+  {
+    "Name": "ZF Commercial Vehicle Control Systems India",
+    "Sector": "Automobiles",
+    "Industry": "Auto Ancilliary"
+  },
+  {
+    "Name": "Motherson Sumi Wiring India",
+    "Sector": "Automobiles",
+    "Industry": "Auto Ancilliary"
+  },
+  {
+    "Name": "Hindustan Copper",
+    "Sector": "Metal",
+    "Industry": "Non Ferrous Metals"
+  },
+  {
+    "Name": "NLC India",
+    "Sector": "Power",
+    "Industry": "Power Generation"
+  },
+  {
+    "Name": "Brigade Enterprises",
+    "Sector": "Realty",
+    "Industry": "Realty"
+  },
+  {
+    "Name": "Bandhan Bank",
+    "Sector": "Banks - Pvt.",
+    "Industry": "Banks - Private Sector"
+  },
+  {
+    "Name": "Metro Brands",
+    "Sector": "Consumer Goods",
+    "Industry": "Shoes"
+  },
+  {
+    "Name": "Go Digit General Insurance",
+    "Sector": "Finance",
+    "Industry": "Insurance"
+  },
+  {
+    "Name": "Emami",
+    "Sector": "Consumer Goods",
+    "Industry": "Personal Care"
+  },
+  {
+    "Name": "Star Health and Allied Insurance Company",
+    "Sector": "Finance",
+    "Industry": "Insurance"
+  },
+  {
+    "Name": "Gland Pharma",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "Apollo Tyres",
+    "Sector": "Automobiles",
+    "Industry": "Tyres"
+  },
+  {
+    "Name": "Crisil",
+    "Sector": "Finance",
+    "Industry": "Credit Rating Agency"
+  },
+  {
+    "Name": "Grindwell Norton",
+    "Sector": "Industrials",
+    "Industry": "Non-Electrical Equipments"
+  },
+  {
+    "Name": "Ipca Laboratories",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "Ajanta Pharma",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "Delhivery",
+    "Sector": "Logistics",
+    "Industry": "Logistics"
+  },
+  {
+    "Name": "Sun TV Network",
+    "Sector": "Media",
+    "Industry": "Movies & TV"
+  },
+  {
+    "Name": "ITI",
+    "Sector": "Telecom",
+    "Industry": "Telecom - Equipment & Infra Services"
+  },
+  {
+    "Name": "KPR Mill",
+    "Sector": "Textile",
+    "Industry": "Textile - Apparel & Products"
+  },
+  {
+    "Name": "Persistent Systems",
+    "Sector": "IT",
+    "Industry": "IT - Software"
+  },
+  {
+    "Name": "Bharat Dynamics",
+    "Sector": "Defence",
+    "Industry": "Defence"
+  },
+  {
+    "Name": "360 One Wam",
+    "Sector": "Broking",
+    "Industry": "Broking"
+  },
+  {
+    "Name": "J B Chemicals & Pharmaceuticals",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "NBCC (India)",
+    "Sector": "Infrastructure",
+    "Industry": "Infrastructure"
+  },
+  {
+    "Name": "Aegis Logistics",
+    "Sector": "Logistics",
+    "Industry": "Logistics"
+  },
+  {
+    "Name": "Jupiter Wagons",
+    "Sector": "Railways",
+    "Industry": "Railways"
+  },
+  {
+    "Name": "Syngene International",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "Tata Chemicals",
+    "Sector": "Chemicals",
+    "Industry": "Diversified Chemicals"
+  },
+  {
+    "Name": "KIOCL",
+    "Sector": "Metal",
+    "Industry": "Mining & Mineral"
+  },
+  {
+    "Name": "Vedant Fashions",
+    "Sector": "Textile",
+    "Industry": "Textile - Apparel & Products"
+  },
+  {
+    "Name": "Godrej Industries",
+    "Sector": "Chemicals",
+    "Industry": "Diversified Chemicals"
+  },
+  {
+    "Name": "EIH",
+    "Sector": "Hotels",
+    "Industry": "Hotels"
+  },
+  {
+    "Name": "Bayer Cropscience",
+    "Sector": "Fertilizers & Agro Chemicals",
+    "Industry": "Fertilizers & Agro Chemicals"
+  },
+  {
+    "Name": "Crompton Greaves Consumer Electricals",
+    "Sector": "Consumer Durables",
+    "Industry": "Consumer Durables"
+  },
+  {
+    "Name": "Sundram Fasteners",
+    "Sector": "Automobiles",
+    "Industry": "Auto Ancilliary"
+  },
+  {
+    "Name": "One97 Communications",
+    "Sector": "Online",
+    "Industry": "Online"
+  },
+  {
+    "Name": "Jyoti CNC Automation",
+    "Sector": "Industrials",
+    "Industry": "Non-Electrical Equipments"
+  },
+  {
+    "Name": "Ircon International",
+    "Sector": "Railways",
+    "Industry": "Railways"
+  },
+  {
+    "Name": "Narayana Hrudayalaya",
+    "Sector": "Healthcare Delivery",
+    "Industry": "Healthcare Delivery"
+  },
+  {
+    "Name": "Gillette India",
+    "Sector": "Consumer Goods",
+    "Industry": "Personal Care"
+  },
+  {
+    "Name": "Century Textiles & Industries",
+    "Sector": "Paper",
+    "Industry": "Paper"
+  },
+  {
+    "Name": "Sumitomo Chemical India",
+    "Sector": "Chemicals",
+    "Industry": "Commodity Chemicals"
+  },
+  {
+    "Name": "Amara Raja Energy & Mobility",
+    "Sector": "Automobiles",
+    "Industry": "Auto Ancilliary"
+  },
+  {
+    "Name": "Aarti Industries",
+    "Sector": "Chemicals",
+    "Industry": "Specialty Chemicals"
+  },
+  {
+    "Name": "JBM Auto",
+    "Sector": "Automobiles",
+    "Industry": "Auto Ancilliary"
+  },
+  {
+    "Name": "Finolex Cables",
+    "Sector": "Consumer Durables",
+    "Industry": "Consumer Durables"
+  },
+  {
+    "Name": "Hatsun Agro Products",
+    "Sector": "Consumer Goods",
+    "Industry": "Dairy"
+  },
+  {
+    "Name": "Kaynes Technology India",
+    "Sector": "Industrials",
+    "Industry": "Industrials"
+  },
+  {
+    "Name": "TVS Holdings",
+    "Sector": "HoldCo*",
+    "Industry": "HoldCo*"
+  },
+  {
+    "Name": "Cholamandalam Financial Holdings",
+    "Sector": "Finance",
+    "Industry": "Finance & Investments"
+  },
+  {
+    "Name": "KEC International",
+    "Sector": "Power",
+    "Industry": "Power Generation"
+  },
+  {
+    "Name": "Ratnamani Metals & Tubes",
+    "Sector": "Pipes",
+    "Industry": "Pipes"
+  },
+  {
+    "Name": "Five-Star Business Finance",
+    "Sector": "Finance",
+    "Industry": "Finance & Investments"
+  },
+  {
+    "Name": "CreditAccess Grameen",
+    "Sector": "Finance",
+    "Industry": "SFB / Microfinance"
+  },
+  {
+    "Name": "Laurus Labs",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "Angel One",
+    "Sector": "Broking",
+    "Industry": "Broking"
+  },
+  {
+    "Name": "Tejas Networks",
+    "Sector": "Telecom",
+    "Industry": "Telecom - Services"
+  },
+  {
+    "Name": "ICICI Securities",
+    "Sector": "Broking",
+    "Industry": "Broking"
+  },
+  {
+    "Name": "Radico Khaitan",
+    "Sector": "Consumer Goods",
+    "Industry": "Alcohol"
+  },
+  {
+    "Name": "Dr. Lal Pathlabs",
+    "Sector": "Healthcare Delivery",
+    "Industry": "Healthcare Delivery"
+  },
+  {
+    "Name": "Kansai Nerolac Paints",
+    "Sector": "B. Mat*",
+    "Industry": "Paints"
+  },
+  {
+    "Name": "Whirlpool of India",
+    "Sector": "Consumer Durables",
+    "Industry": "Consumer Durables"
+  },
+  {
+    "Name": "Central Depository Services (India)",
+    "Sector": "Misc.",
+    "Industry": "Misc."
+  },
+  {
+    "Name": "Pfizer",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "Canara Bank",
+    "Sector": "Banks - PSU",
+    "Industry": "Banks - Public Sector"
+  },
+  {
+    "Name": "Elgi Equipments",
+    "Sector": "Industrials",
+    "Industry": "Non-Electrical Equipments"
+  },
+  {
+    "Name": "Natco Pharma",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "PNB Housing Finance",
+    "Sector": "Housing Finance",
+    "Industry": "Housing Finance"
+  },
+  {
+    "Name": "CIE Automotive India",
+    "Sector": "Automobiles",
+    "Industry": "Auto Ancilliary"
+  },
+  {
+    "Name": "Devyani International",
+    "Sector": "Consumer Goods",
+    "Industry": "Restaurants"
+  },
+  {
+    "Name": "BASF India",
+    "Sector": "Chemicals",
+    "Industry": "Diversified Chemicals"
+  },
+  {
+    "Name": "Godfrey Phillips India",
+    "Sector": "Consumer Goods",
+    "Industry": "Cigarettes"
+  },
+  {
+    "Name": "PTC Industries",
+    "Sector": "Industrials",
+    "Industry": "Industrials"
+  },
+  {
+    "Name": "Cyient",
+    "Sector": "IT",
+    "Industry": "IT - Software"
+  },
+  {
+    "Name": "Piramal Pharma",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "Relaxo Footwears",
+    "Sector": "Consumer Goods",
+    "Industry": "Shoes"
+  },
+  {
+    "Name": "Sobha",
+    "Sector": "Realty",
+    "Industry": "Realty"
+  },
+  {
+    "Name": "NCC",
+    "Sector": "Infrastructure",
+    "Industry": "Infrastructure"
+  },
+  {
+    "Name": "Finolex Industries",
+    "Sector": "Pipes",
+    "Industry": "Pipes"
+  },
+  {
+    "Name": "The Ramco Cements",
+    "Sector": "Cement",
+    "Industry": "Cement"
+  },
+  {
+    "Name": "Kajaria Ceramics",
+    "Sector": "B. Mat*",
+    "Industry": "Ceramics"
+  },
+  {
+    "Name": "Castrol India",
+    "Sector": "Chemicals",
+    "Industry": "Commodity Chemicals"
+  },
+  {
+    "Name": "Trident",
+    "Sector": "Textile",
+    "Industry": "Textile - Apparel & Products"
+  },
+  {
+    "Name": "Swan Energy",
+    "Sector": "Textile",
+    "Industry": "Textile - Apparel & Products"
+  },
+  {
+    "Name": "Titagarh Rail Systems",
+    "Sector": "Railways",
+    "Industry": "Railways"
+  },
+  {
+    "Name": "IIFL Finance",
+    "Sector": "Broking",
+    "Industry": "Broking"
+  },
+  {
+    "Name": "Multi Commodity Exchange of India",
+    "Sector": "Finance",
+    "Industry": "Exchange"
+  },
+  {
+    "Name": "CESC",
+    "Sector": "Power",
+    "Industry": "Power Generation"
+  },
+  {
+    "Name": "R R Kabel",
+    "Sector": "Consumer Durables",
+    "Industry": "Consumer Durables"
+  },
+  {
+    "Name": "Piramal Enterprises",
+    "Sector": "Misc.",
+    "Industry": "Diversified"
+  },
+  {
+    "Name": "Kalpataru Projects International",
+    "Sector": "Power",
+    "Industry": "Power Infra, Trans. Equipment & Services"
+  },
+  {
+    "Name": "BEML",
+    "Sector": "Industrials",
+    "Industry": "Non-Electrical Equipments"
+  },
+  {
+    "Name": "Aditya Birla Sun Life AMC",
+    "Sector": "Finance",
+    "Industry": "Asset Management Cos."
+  },
+  {
+    "Name": "Kirloskar Oil Engines",
+    "Sector": "Automobiles",
+    "Industry": "Auto Ancilliary"
+  },
+  {
+    "Name": "Vinati Organics",
+    "Sector": "Chemicals",
+    "Industry": "Specialty Chemicals"
+  },
+  {
+    "Name": "Schneider Electric Infrastructure",
+    "Sector": "Industrials",
+    "Industry": "Electrical Equipments"
+  },
+  {
+    "Name": "Poly Medicure",
+    "Sector": "Healthcare Delivery",
+    "Industry": "Healthcare Delivery"
+  },
+  {
+    "Name": "Authum Investment & Infrastructure",
+    "Sector": "Finance",
+    "Industry": "Finance & Investments"
+  },
+  {
+    "Name": "Signatureglobal (India)",
+    "Sector": "Realty",
+    "Industry": "Realty"
+  },
+  {
+    "Name": "Inox Wind",
+    "Sector": "Power",
+    "Industry": "Power Generation"
+  },
+  {
+    "Name": "Blue Dart Express",
+    "Sector": "Logistics",
+    "Industry": "Logistics"
+  },
+  {
+    "Name": "Birlasoft",
+    "Sector": "IT",
+    "Industry": "IT - Software"
+  },
+  {
+    "Name": "Garden Reach Shipbuilders & Engineers",
+    "Sector": "Defence",
+    "Industry": "Defence"
+  },
+  {
+    "Name": "Bata India",
+    "Sector": "Consumer Goods",
+    "Industry": "Shoes"
+  },
+  {
+    "Name": "Cello World",
+    "Sector": "Consumer Durables",
+    "Industry": "Consumer Durables"
+  },
+  {
+    "Name": "Capri Global Capital",
+    "Sector": "Finance",
+    "Industry": "Finance & Investments"
+  },
+  {
+    "Name": "Atul",
+    "Sector": "Chemicals",
+    "Industry": "Diversified Chemicals"
+  },
+  {
+    "Name": "IDFC",
+    "Sector": "Finance",
+    "Industry": "Finance & Investments"
+  },
+  {
+    "Name": "Suven Pharmaceuticals",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "Triveni Turbine",
+    "Sector": "Power",
+    "Industry": "Power Infra, Trans. Equipment & Services"
+  },
+  {
+    "Name": "Shyam Metalics and Energy",
+    "Sector": "Metal",
+    "Industry": "Steel"
+  },
+  {
+    "Name": "Bikaji Foods International",
+    "Sector": "Consumer Goods",
+    "Industry": "Food Processing"
+  },
+  {
+    "Name": "Chalet Hotels",
+    "Sector": "Hotels",
+    "Industry": "Hotels"
+  },
+  {
+    "Name": "Jindal Saw",
+    "Sector": "Pipes",
+    "Industry": "Pipes"
+  },
+  {
+    "Name": "Aadhar Housing Finance",
+    "Sector": "Housing Finance",
+    "Industry": "Housing Finance"
+  },
+  {
+    "Name": "Nuvama Wealth Management",
+    "Sector": "Broking",
+    "Industry": "Broking"
+  },
+  {
+    "Name": "Aster DM Healthcare",
+    "Sector": "Healthcare Delivery",
+    "Industry": "Healthcare Delivery"
+  },
+  {
+    "Name": "Himadri Speciality Chemical",
+    "Sector": "Chemicals",
+    "Industry": "Commodity Chemicals"
+  },
+  {
+    "Name": "Affle (India)",
+    "Sector": "Online",
+    "Industry": "Online"
+  },
+  {
+    "Name": "Action Construction Equipment",
+    "Sector": "Infrastructure",
+    "Industry": "Infrastructure"
+  },
+  {
+    "Name": "Computer Age Management Services",
+    "Sector": "Misc.",
+    "Industry": "Misc."
+  },
+  {
+    "Name": "Navin Fluorine International",
+    "Sector": "Chemicals",
+    "Industry": "Specialty Chemicals"
+  },
+  {
+    "Name": "Sterling and Wilson Renewable Energy",
+    "Sector": "Power",
+    "Industry": "Renewable Energy Equipment & Services"
+  },
+  {
+    "Name": "NMDC Steel",
+    "Sector": "Metal",
+    "Industry": "Steel"
+  },
+  {
+    "Name": "Alembic Pharmaceuticals",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "Aptus Value Housing Finance India",
+    "Sector": "Housing Finance",
+    "Industry": "Housing Finance"
+  },
+  {
+    "Name": "TBO Tek",
+    "Sector": "Online",
+    "Industry": "Online"
+  },
+  {
+    "Name": "V-Guard Industries",
+    "Sector": "Consumer Durables",
+    "Industry": "Consumer Durables"
+  },
+  {
+    "Name": "Great Eastern Shipping Company",
+    "Sector": "Infrastructure",
+    "Industry": "Shipping"
+  },
+  {
+    "Name": "Kirloskar Brothers",
+    "Sector": "Industrials",
+    "Industry": "Non-Electrical Equipments"
+  },
+  {
+    "Name": "Lakshmi Machine Works",
+    "Sector": "Industrials",
+    "Industry": "Industrial Machinery"
+  },
+  {
+    "Name": "Gujarat State Petronet",
+    "Sector": "Industrials",
+    "Industry": "Gas Distribution"
+  },
+  {
+    "Name": "Chambal Fertilisers & Chemicals",
+    "Sector": "Fertilizers & Agro Chemicals",
+    "Industry": "Fertilizers & Agro Chemicals"
+  },
+  {
+    "Name": "HFCL",
+    "Sector": "Telecom",
+    "Industry": "Telecom - Equipment & Infra Services"
+  },
+  {
+    "Name": "Rites",
+    "Sector": "Railways",
+    "Industry": "Railways"
+  },
+  {
+    "Name": "Redington",
+    "Sector": "Misc.",
+    "Industry": "Trading"
+  },
+  {
+    "Name": "Karur Vysya Bank",
+    "Sector": "Banks - Pvt.",
+    "Industry": "Banks - Private Sector"
+  },
+  {
+    "Name": "Anand Rathi Wealth",
+    "Sector": "Broking",
+    "Industry": "Broking"
+  },
+  {
+    "Name": "Raymond",
+    "Sector": "Textile",
+    "Industry": "Textile - Apparel & Products"
+  },
+  {
+    "Name": "Jyothy Labs",
+    "Sector": "Consumer Goods",
+    "Industry": "Personal Care"
+  },
+  {
+    "Name": "KSB",
+    "Sector": "Industrials",
+    "Industry": "Non-Electrical Equipments"
+  },
+  {
+    "Name": "Data Patterns (India)",
+    "Sector": "Defence",
+    "Industry": "Defence"
+  },
+  {
+    "Name": "Krishna Institute of Medical Sciences",
+    "Sector": "Healthcare Delivery",
+    "Industry": "Healthcare Delivery"
+  },
+  {
+    "Name": "GR Infraprojects",
+    "Sector": "Infrastructure",
+    "Industry": "Infrastructure"
+  },
+  {
+    "Name": "DCM Shriram",
+    "Sector": "Misc.",
+    "Industry": "Diversified"
+  },
+  {
+    "Name": "AstraZeneca Pharma India",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "IFCI",
+    "Sector": "Finance",
+    "Industry": "Finance & Investments"
+  },
+  {
+    "Name": "Indian Energy Exchange",
+    "Sector": "Finance",
+    "Industry": "Exchange"
+  },
+  {
+    "Name": "Concord Biotech",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "Jai Balaji Industries",
+    "Sector": "Metal",
+    "Industry": "Steel"
+  },
+  {
+    "Name": "Sonata Software",
+    "Sector": "IT",
+    "Industry": "IT - Software"
+  },
+  {
+    "Name": "Zensar Technologies",
+    "Sector": "IT",
+    "Industry": "IT - Software"
+  },
+  {
+    "Name": "Zee Entertainment Enterprises",
+    "Sector": "Media",
+    "Industry": "Movies & TV"
+  },
+  {
+    "Name": "Sanofi India",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "Manappuram Finance",
+    "Sector": "Finance",
+    "Industry": "Finance & Investments"
+  },
+  {
+    "Name": "Techno Electric & Engineering Company",
+    "Sector": "Telecom",
+    "Industry": "Telecom - Equipment & Infra Services"
+  },
+  {
+    "Name": "RBL Bank",
+    "Sector": "Banks - Pvt.",
+    "Industry": "Banks - Private Sector"
+  },
+  {
+    "Name": "Century Plyboards (India)",
+    "Sector": "B. Mat*",
+    "Industry": "B. Mat*"
+  },
+  {
+    "Name": "IndiaMART InterMESH",
+    "Sector": "Online",
+    "Industry": "Online"
+  },
+  {
+    "Name": "Tata Teleservices (Maharashtra)",
+    "Sector": "Telecom",
+    "Industry": "Telecom - Services"
+  },
+  {
+    "Name": "Asahi India Glass",
+    "Sector": "Automobiles",
+    "Industry": "Auto Ancilliary"
+  },
+  {
+    "Name": "Engineers India",
+    "Sector": "Infrastructure",
+    "Industry": "Infrastructure"
+  },
+  {
+    "Name": "Elecon Engineering Company",
+    "Sector": "Industrials",
+    "Industry": "Non-Electrical Equipments"
+  },
+  {
+    "Name": "Intellect Design Arena",
+    "Sector": "IT",
+    "Industry": "IT - Software"
+  },
+  {
+    "Name": "Chennai Petroleum Corporation",
+    "Sector": "Industrials",
+    "Industry": "Refineries"
+  },
+  {
+    "Name": "Aavas Financiers",
+    "Sector": "Housing Finance",
+    "Industry": "Housing Finance"
+  },
+  {
+    "Name": "Godawari Power & Ispat",
+    "Sector": "Metal",
+    "Industry": "Steel"
+  },
+  {
+    "Name": "Netweb Technologies India",
+    "Sector": "IT",
+    "Industry": "IT - Software"
+  },
+  {
+    "Name": "Anant Raj",
+    "Sector": "Realty",
+    "Industry": "Realty"
+  },
+  {
+    "Name": "Ingersoll-Rand (India)",
+    "Sector": "Industrials",
+    "Industry": "Non-Electrical Equipments"
+  },
+  {
+    "Name": "Mahanagar Gas",
+    "Sector": "Industrials",
+    "Industry": "Gas Distribution"
+  },
+  {
+    "Name": "Olectra Greentech",
+    "Sector": "Automobiles",
+    "Industry": "Commercial Vehicles"
+  },
+  {
+    "Name": "BLS International Services",
+    "Sector": "Misc.",
+    "Industry": "Misc."
+  },
+  {
+    "Name": "Clean Science & Technology",
+    "Sector": "Chemicals",
+    "Industry": "Specialty Chemicals"
+  },
+  {
+    "Name": "RHI Magnesita India",
+    "Sector": "Industrials",
+    "Industry": "Industrials"
+  },
+  {
+    "Name": "Fine Organic Industries",
+    "Sector": "Chemicals",
+    "Industry": "Specialty Chemicals"
+  },
+  {
+    "Name": "Firstsource Solutions",
+    "Sector": "IT",
+    "Industry": "BPO/KPO"
+  },
+  {
+    "Name": "Welspun Corp",
+    "Sector": "Metal",
+    "Industry": "Steel"
+  },
+  {
+    "Name": "Indegene",
+    "Sector": "Misc.",
+    "Industry": "Misc."
+  },
+  {
+    "Name": "Welspun Living",
+    "Sector": "Textile",
+    "Industry": "Textile - Apparel & Products"
+  },
+  {
+    "Name": "Honasa Consumer",
+    "Sector": "Consumer Goods",
+    "Industry": "Personal Care"
+  },
+  {
+    "Name": "Supreme Petrochem",
+    "Sector": "Chemicals",
+    "Industry": "Specialty Chemicals"
+  },
+  {
+    "Name": "Eris Lifesciences",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "Alok Industries",
+    "Sector": "Textile",
+    "Industry": "Textile - Yarn/Fabric/Processing"
+  },
+  {
+    "Name": "PVR INOX",
+    "Sector": "Media",
+    "Industry": "Movies & TV"
+  },
+  {
+    "Name": "Vardhman Textiles",
+    "Sector": "Textile",
+    "Industry": "Textile - Yarn/Fabric/Processing"
+  },
+  {
+    "Name": "Amber Enterprises India",
+    "Sector": "Consumer Durables",
+    "Industry": "Consumer Durables"
+  },
+  {
+    "Name": "Jaiprakash Power Ventures",
+    "Sector": "Power",
+    "Industry": "Power Generation"
+  },
+  {
+    "Name": "RailTel Corporation of India",
+    "Sector": "Railways",
+    "Industry": "Railways"
+  },
+  {
+    "Name": "Jammu & Kashmir Bank",
+    "Sector": "Banks - PSU",
+    "Industry": "Banks - Public Sector"
+  },
+  {
+    "Name": "Ramkrishna Forgings",
+    "Sector": "Industrials",
+    "Industry": "Industrials"
+  },
+  {
+    "Name": "Happiest Minds Technologies",
+    "Sector": "IT",
+    "Industry": "IT - Software"
+  },
+  {
+    "Name": "Rainbow Childrens Medicare",
+    "Sector": "Healthcare Delivery",
+    "Industry": "Healthcare Delivery"
+  },
+  {
+    "Name": "HBL Power Systems",
+    "Sector": "Industrials",
+    "Industry": "Industrials"
+  },
+  {
+    "Name": "Nuvoco Vistas Corporation",
+    "Sector": "Cement",
+    "Industry": "Cement"
+  },
+  {
+    "Name": "Tanla Platforms",
+    "Sector": "IT",
+    "Industry": "IT - Software"
+  },
+  {
+    "Name": "Akzo Nobel India",
+    "Sector": "B. Mat*",
+    "Industry": "Paints"
+  },
+  {
+    "Name": "EID Parry (India)",
+    "Sector": "Sugar",
+    "Industry": "Sugar"
+  },
+  {
+    "Name": "Newgen Software Technologies",
+    "Sector": "IT",
+    "Industry": "IT - Software"
+  },
+  {
+    "Name": "Praj Industries",
+    "Sector": "Industrials",
+    "Industry": "Industrials"
+  },
+  {
+    "Name": "Gujarat Mineral Development Corporation",
+    "Sector": "Metal",
+    "Industry": "Mining & Mineral"
+  },
+  {
+    "Name": "UTI Asset Management Company",
+    "Sector": "Finance",
+    "Industry": "Asset Management Cos."
+  },
+  {
+    "Name": "#N/A",
+    "Sector": "#N/A",
+    "Industry": "#N/A"
+  },
+  {
+    "Name": "Shipping Corporation of India",
+    "Sector": "Infrastructure",
+    "Industry": "Shipping"
+  },
+  {
+    "Name": "Reliance Power",
+    "Sector": "Power",
+    "Industry": "Power Generation"
+  },
+  {
+    "Name": "Westlife Foodworld",
+    "Sector": "Consumer Goods",
+    "Industry": "Restaurants"
+  },
+  {
+    "Name": "Usha Martin",
+    "Sector": "Metal",
+    "Industry": "Steel"
+  },
+  {
+    "Name": "KFIN Technologies",
+    "Sector": "Misc.",
+    "Industry": "Misc."
+  },
+  {
+    "Name": "PNC Infratech",
+    "Sector": "Infrastructure",
+    "Industry": "Infrastructure"
+  },
+  {
+    "Name": "Birla Corporation",
+    "Sector": "Cement",
+    "Industry": "Cement"
+  },
+  {
+    "Name": "Inox India",
+    "Sector": "Industrials",
+    "Industry": "Industrials"
+  },
+  {
+    "Name": "Force Motors",
+    "Sector": "Automobiles",
+    "Industry": "Commercial Vehicles"
+  },
+  {
+    "Name": "Jubilant Pharmova",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "Bajaj Electricals",
+    "Sector": "Consumer Durables",
+    "Industry": "Consumer Durables"
+  },
+  {
+    "Name": "Lemon Tree Hotels",
+    "Sector": "Hotels",
+    "Industry": "Hotels"
+  },
+  {
+    "Name": "Zydus Wellness",
+    "Sector": "Consumer Goods",
+    "Industry": "Food Processing"
+  },
+  {
+    "Name": "DOMS Industries",
+    "Sector": "Misc.",
+    "Industry": "Printing, Publishing & Stationery"
+  },
+  {
+    "Name": "eClerx Services",
+    "Sector": "IT",
+    "Industry": "BPO/KPO"
+  },
+  {
+    "Name": "Equitas Small Finance Bank",
+    "Sector": "Finance",
+    "Industry": "SFB / Microfinance"
+  },
+  {
+    "Name": "Bombay Burmah Trading Corporation",
+    "Sector": "Misc.",
+    "Industry": "Misc."
+  },
+  {
+    "Name": "MMTC",
+    "Sector": "Misc.",
+    "Industry": "Trading"
+  },
+  {
+    "Name": "Transformers & Rectifiers (India)",
+    "Sector": "Power",
+    "Industry": "Power Infra, Trans. Equipment & Services"
+  },
+  {
+    "Name": "Aether Industries",
+    "Sector": "Chemicals",
+    "Industry": "Specialty Chemicals"
+  },
+  {
+    "Name": "HG Infra Engineering",
+    "Sector": "Infrastructure",
+    "Industry": "Infrastructure"
+  },
+  {
+    "Name": "Godrej Agrovet",
+    "Sector": "Agriculture",
+    "Industry": "Agriculture"
+  },
+  {
+    "Name": "Voltamp Transformers",
+    "Sector": "Power",
+    "Industry": "Power Infra, Trans. Equipment & Services"
+  },
+  {
+    "Name": "Happy Forgings",
+    "Sector": "Automobiles",
+    "Industry": "Auto Ancilliary"
+  },
+  {
+    "Name": "City Union Bank",
+    "Sector": "Banks - Pvt.",
+    "Industry": "Banks - Private Sector"
+  },
+  {
+    "Name": "Granules India",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "Graphite India",
+    "Sector": "Industrials",
+    "Industry": "Non-Electrical Equipments"
+  },
+  {
+    "Name": "Vesuvius India",
+    "Sector": "Industrials",
+    "Industry": "Industrials"
+  },
+  {
+    "Name": "Can Fin Homes",
+    "Sector": "Housing Finance",
+    "Industry": "Housing Finance"
+  },
+  {
+    "Name": "KPI Green Energy",
+    "Sector": "Power",
+    "Industry": "Power Generation"
+  },
+  {
+    "Name": "Tega Industries",
+    "Sector": "Industrials",
+    "Industry": "Industrial Machinery"
+  },
+  {
+    "Name": "KNR Constructions",
+    "Sector": "Infrastructure",
+    "Industry": "Infrastructure"
+  },
+  {
+    "Name": "Minda Corporation",
+    "Sector": "Automobiles",
+    "Industry": "Auto Ancilliary"
+  },
+  {
+    "Name": "D B Realty",
+    "Sector": "Realty",
+    "Industry": "Realty"
+  },
+  {
+    "Name": "MOIL",
+    "Sector": "Metal",
+    "Industry": "Mining & Mineral"
+  },
+  {
+    "Name": "Electrosteel Castings",
+    "Sector": "Pipes",
+    "Industry": "Pipes"
+  },
+  {
+    "Name": "Azad Engineering",
+    "Sector": "Industrials",
+    "Industry": "Industrials"
+  },
+  {
+    "Name": "Saregama India",
+    "Sector": "Media",
+    "Industry": "Movies & TV"
+  },
+  {
+    "Name": "C.E. Info Systems",
+    "Sector": "Online",
+    "Industry": "Online"
+  },
+  {
+    "Name": "RattanIndia Enterprises",
+    "Sector": "Power",
+    "Industry": "Power Generation"
+  },
+  {
+    "Name": "Caplin Point Laboratories",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "Shree Renuka Sugars",
+    "Sector": "Sugar",
+    "Industry": "Sugar"
+  },
+  {
+    "Name": "Glenmark Life Sciences",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "Latent View Analytics",
+    "Sector": "IT",
+    "Industry": "IT - Software"
+  },
+  {
+    "Name": "TTK Prestige",
+    "Sector": "Consumer Durables",
+    "Industry": "Consumer Durables"
+  },
+  {
+    "Name": "Puravankara",
+    "Sector": "Realty",
+    "Industry": "Realty"
+  },
+  {
+    "Name": "Varroc Engineering",
+    "Sector": "Automobiles",
+    "Industry": "Auto Ancilliary"
+  },
+  {
+    "Name": "JK Tyre & Industries",
+    "Sector": "Automobiles",
+    "Industry": "Tyres"
+  },
+  {
+    "Name": "Alkyl Amines Chemicals",
+    "Sector": "Chemicals",
+    "Industry": "Specialty Chemicals"
+  },
+  {
+    "Name": "Ceat",
+    "Sector": "Automobiles",
+    "Industry": "Tyres"
+  },
+  {
+    "Name": "Redtape",
+    "Sector": "Consumer Goods",
+    "Industry": "Shoes"
+  },
+  {
+    "Name": "Safari Industries (India)",
+    "Sector": "Consumer Durables",
+    "Industry": "Consumer Durables"
+  },
+  {
+    "Name": "Sheela Foam",
+    "Sector": "Misc.",
+    "Industry": "Misc."
+  },
+  {
+    "Name": "Thomas Cook (India)",
+    "Sector": "Misc.",
+    "Industry": "Tourism"
+  },
+  {
+    "Name": "RattanIndia Power",
+    "Sector": "Power",
+    "Industry": "Power Generation"
+  },
+  {
+    "Name": "Gujarat Narmada Valley Fertilizers & Chemicals",
+    "Sector": "Fertilizers & Agro Chemicals",
+    "Industry": "Fertilizers & Agro Chemicals"
+  },
+  {
+    "Name": "Metropolis Healthcare",
+    "Sector": "Healthcare Delivery",
+    "Industry": "Healthcare Delivery"
+  },
+  {
+    "Name": "Craftsman Automation",
+    "Sector": "Automobiles",
+    "Industry": "Auto Ancilliary"
+  },
+  {
+    "Name": "Cera Sanitaryware",
+    "Sector": "B. Mat*",
+    "Industry": "Ceramics"
+  },
+  {
+    "Name": "Juniper Hotels",
+    "Sector": "Hotels",
+    "Industry": "Hotels"
+  },
+  {
+    "Name": "Arvind",
+    "Sector": "Textile",
+    "Industry": "Textile - Apparel & Products"
+  },
+  {
+    "Name": "Chemplast Sanmar",
+    "Sector": "Chemicals",
+    "Industry": "Specialty Chemicals"
+  },
+  {
+    "Name": "Motilal Oswal Financial Services",
+    "Sector": "Broking",
+    "Industry": "Broking"
+  },
+  {
+    "Name": "Genus Power Infrastructures",
+    "Sector": "Consumer Durables",
+    "Industry": "Consumer Durables"
+  },
+  {
+    "Name": "Gujarat Pipavav Port",
+    "Sector": "Infrastructure",
+    "Industry": "Shipping"
+  },
+  {
+    "Name": "JK Lakshmi Cement",
+    "Sector": "Cement",
+    "Industry": "Cement"
+  },
+  {
+    "Name": "Ujjivan Small Finance Bank",
+    "Sector": "Finance",
+    "Industry": "SFB / Microfinance"
+  },
+  {
+    "Name": "Route Mobile",
+    "Sector": "IT",
+    "Industry": "IT - Software"
+  },
+  {
+    "Name": "Sapphire Foods India",
+    "Sector": "Consumer Goods",
+    "Industry": "Restaurants"
+  },
+  {
+    "Name": "Mahindra Lifespace Developers",
+    "Sector": "Realty",
+    "Industry": "Realty"
+  },
+  {
+    "Name": "Home First Finance Company India",
+    "Sector": "Housing Finance",
+    "Industry": "Housing Finance"
+  },
+  {
+    "Name": "Galaxy Surfactants",
+    "Sector": "Chemicals",
+    "Industry": "Specialty Chemicals"
+  },
+  {
+    "Name": "PCBL",
+    "Sector": "Chemicals",
+    "Industry": "Commodity Chemicals"
+  },
+  {
+    "Name": "Zen Technologies",
+    "Sector": "IT",
+    "Industry": "IT - Software"
+  },
+  {
+    "Name": "Maharashtra Scooters",
+    "Sector": "HoldCo*",
+    "Industry": "HoldCo*"
+  },
+  {
+    "Name": "NAVA",
+    "Sector": "Metal",
+    "Industry": "Mining & Mineral"
+  },
+  {
+    "Name": "SBFC Finance",
+    "Sector": "Finance",
+    "Industry": "Finance & Investments"
+  },
+  {
+    "Name": "Rashtriya Chemicals & Fertilizers",
+    "Sector": "Fertilizers & Agro Chemicals",
+    "Industry": "Fertilizers & Agro Chemicals"
+  },
+  {
+    "Name": "Electronics Mart India",
+    "Sector": "Retail",
+    "Industry": "Retail"
+  },
+  {
+    "Name": "Maharashtra Seamless",
+    "Sector": "Pipes",
+    "Industry": "Pipes"
+  },
+  {
+    "Name": "Quess Corp",
+    "Sector": "Misc.",
+    "Industry": "Misc."
+  },
+  {
+    "Name": "Astra Microwave Products",
+    "Sector": "Defence",
+    "Industry": "Defence"
+  },
+  {
+    "Name": "LT Foods",
+    "Sector": "Consumer Goods",
+    "Industry": "Rice"
+  },
+  {
+    "Name": "Esab India",
+    "Sector": "Industrials",
+    "Industry": "Non-Electrical Equipments"
+  },
+  {
+    "Name": "Star Cement",
+    "Sector": "Cement",
+    "Industry": "Cement"
+  },
+  {
+    "Name": "Gravita India",
+    "Sector": "Metal",
+    "Industry": "Mining & Mineral"
+  },
+  {
+    "Name": "Strides Pharma Science",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "Kirloskar Pneumatic Company",
+    "Sector": "Industrials",
+    "Industry": "Non-Electrical Equipments"
+  },
+  {
+    "Name": "Gujarat State Fertilizer & Chemicals",
+    "Sector": "Fertilizers & Agro Chemicals",
+    "Industry": "Fertilizers & Agro Chemicals"
+  },
+  {
+    "Name": "Infibeam Avenues",
+    "Sector": "Online",
+    "Industry": "Online"
+  },
+  {
+    "Name": "Network18 Media & Investments",
+    "Sector": "Media",
+    "Industry": "Movies & TV"
+  },
+  {
+    "Name": "ISGEC Heavy Engineering",
+    "Sector": "Industrials",
+    "Industry": "Non-Electrical Equipments"
+  },
+  {
+    "Name": "Just Dial",
+    "Sector": "Online",
+    "Industry": "Online"
+  },
+  {
+    "Name": "#N/A",
+    "Sector": "#N/A",
+    "Industry": "#N/A"
+  },
+  {
+    "Name": "Wockhardt",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "Sandur Manganese & Iron Ores",
+    "Sector": "Metal",
+    "Industry": "Mining & Mineral"
+  },
+  {
+    "Name": "Symphony",
+    "Sector": "Consumer Durables",
+    "Industry": "Consumer Durables"
+  },
+  {
+    "Name": "Balrampur Chini Mills",
+    "Sector": "Sugar",
+    "Industry": "Sugar"
+  },
+  {
+    "Name": "Anupam Rasayan India",
+    "Sector": "Chemicals",
+    "Industry": "Specialty Chemicals"
+  },
+  {
+    "Name": "RateGain Travel Technologies",
+    "Sector": "Online",
+    "Industry": "Online"
+  },
+  {
+    "Name": "Mahindra Holidays & Resorts India",
+    "Sector": "Hotels",
+    "Industry": "Hotels"
+  },
+  {
+    "Name": "Triveni Engineering & Industries",
+    "Sector": "Sugar",
+    "Industry": "Sugar"
+  },
+  {
+    "Name": "Rajesh Exports",
+    "Sector": "Consumer Goods",
+    "Industry": "Jewellery"
+  },
+  {
+    "Name": "Mishra Dhatu Nigam",
+    "Sector": "Defence",
+    "Industry": "Defence"
+  },
+  {
+    "Name": "Campus Activewear",
+    "Sector": "Consumer Goods",
+    "Industry": "Shoes"
+  },
+  {
+    "Name": "Inox Wind Energy",
+    "Sector": "Power",
+    "Industry": "Power Generation"
+  },
+  {
+    "Name": "Shriram Pistons & Rings",
+    "Sector": "Automobiles",
+    "Industry": "Auto Ancilliary"
+  },
+  {
+    "Name": "HEG",
+    "Sector": "Industrials",
+    "Industry": "Non-Electrical Equipments"
+  },
+  {
+    "Name": "Texmaco Rail & Engineering",
+    "Sector": "Railways",
+    "Industry": "Railways"
+  },
+  {
+    "Name": "Responsive Industries",
+    "Sector": "Industrials",
+    "Industry": "Plastic Products"
+  },
+  {
+    "Name": "Procter & Gamble Health",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "Mastek",
+    "Sector": "IT",
+    "Industry": "IT - Software"
+  },
+  {
+    "Name": "Medplus Health Services",
+    "Sector": "Healthcare Delivery",
+    "Industry": "Healthcare Delivery"
+  },
+  {
+    "Name": "Neuland Laboratories",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "Sarda Energy & Minerals",
+    "Sector": "Metal",
+    "Industry": "Steel"
+  },
+  {
+    "Name": "JK Paper",
+    "Sector": "Paper",
+    "Industry": "Paper"
+  },
+  {
+    "Name": "Archean Chemical Industries",
+    "Sector": "Chemicals",
+    "Industry": "Specialty Chemicals"
+  },
+  {
+    "Name": "Reliance Infrastructure",
+    "Sector": "Infrastructure",
+    "Industry": "Infrastructure"
+  },
+  {
+    "Name": "Syrma SGS Technology",
+    "Sector": "Consumer Durables",
+    "Industry": "Consumer Durables"
+  },
+  {
+    "Name": "Karnataka Bank",
+    "Sector": "Banks - Pvt.",
+    "Industry": "Banks - Private Sector"
+  },
+  {
+    "Name": "Ganesh Housing Corporation",
+    "Sector": "Realty",
+    "Industry": "Realty"
+  },
+  {
+    "Name": "Sunteck Realty",
+    "Sector": "Realty",
+    "Industry": "Realty"
+  },
+  {
+    "Name": "Mrs. Bectors Food Specialities",
+    "Sector": "Consumer Goods",
+    "Industry": "Food Processing"
+  },
+  {
+    "Name": "Garware Technical Fibres",
+    "Sector": "Textile",
+    "Industry": "Textile - Apparel & Products"
+  },
+  {
+    "Name": "Prism Johnson",
+    "Sector": "Cement",
+    "Industry": "Cement"
+  },
+  {
+    "Name": "Hindustan Construction Company",
+    "Sector": "Infrastructure",
+    "Industry": "Infrastructure"
+  },
+  {
+    "Name": "Shoppers Stop",
+    "Sector": "Retail",
+    "Industry": "Retail"
+  },
+  {
+    "Name": "Jupiter Life Line Hospitals",
+    "Sector": "Healthcare Delivery",
+    "Industry": "Healthcare Delivery"
+  },
+  {
+    "Name": "Ahluwalia Contracts (India)",
+    "Sector": "Realty",
+    "Industry": "Realty"
+  },
+  {
+    "Name": "Vijaya Diagnostic Centre",
+    "Sector": "Healthcare Delivery",
+    "Industry": "Healthcare Delivery"
+  },
+  {
+    "Name": "Avanti Feeds",
+    "Sector": "Misc.",
+    "Industry": "Aquaculture"
+  },
+  {
+    "Name": "Jubilant Ingrevia",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "Lloyds Engineering Works",
+    "Sector": "Metal",
+    "Industry": "Steel"
+  },
+  {
+    "Name": "ITD Cementation India",
+    "Sector": "Infrastructure",
+    "Industry": "Infrastructure"
+  },
+  {
+    "Name": "CCL Products India",
+    "Sector": "Consumer Goods",
+    "Industry": "Tea & Coffee"
+  },
+  {
+    "Name": "JM Financial",
+    "Sector": "Broking",
+    "Industry": "Broking"
+  },
+  {
+    "Name": "Power Mech Projects",
+    "Sector": "Infrastructure",
+    "Industry": "Infrastructure"
+  },
+  {
+    "Name": "Keystone Realtors",
+    "Sector": "Realty",
+    "Industry": "Realty"
+  },
+  {
+    "Name": "Ion Exchange (India)",
+    "Sector": "Industrials",
+    "Industry": "Non-Electrical Equipments"
+  },
+  {
+    "Name": "Greenlam Industries",
+    "Sector": "B. Mat*",
+    "Industry": "B. Mat*"
+  },
+  {
+    "Name": "Prudent Corporate Advisory Services",
+    "Sector": "Broking",
+    "Industry": "Broking"
+  },
+  {
+    "Name": "CMS Info Systems",
+    "Sector": "Misc.",
+    "Industry": "Misc."
+  },
+  {
+    "Name": "TVS Supply Chain Solutions",
+    "Sector": "Logistics",
+    "Industry": "Logistics"
+  },
+  {
+    "Name": "PG Electroplast",
+    "Sector": "Consumer Durables",
+    "Industry": "Consumer Durables"
+  },
+  {
+    "Name": "Gallantt Ispat",
+    "Sector": "Metal",
+    "Industry": "Steel"
+  },
+  {
+    "Name": "Prince Pipes & Fittings",
+    "Sector": "Pipes",
+    "Industry": "Pipes"
+  },
+  {
+    "Name": "Senco Gold",
+    "Sector": "Consumer Goods",
+    "Industry": "Jewellery"
+  },
+  {
+    "Name": "Sun Pharma Advanced Research Company",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "Indo Count Industries",
+    "Sector": "Textile",
+    "Industry": "Textile - Yarn/Fabric/Processing"
+  },
+  {
+    "Name": "TV18 Broadcast",
+    "Sector": "Media",
+    "Industry": "Movies & TV"
+  },
+  {
+    "Name": "Religare Enterprises",
+    "Sector": "Broking",
+    "Industry": "Broking"
+  },
+  {
+    "Name": "JSW Holdings",
+    "Sector": "HoldCo*",
+    "Industry": "HoldCo*"
+  },
+  {
+    "Name": "FDC",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "Deepak Fertilisers & Petrochemicals Corporation",
+    "Sector": "Fertilizers & Agro Chemicals",
+    "Industry": "Fertilizers & Agro Chemicals"
+  },
+  {
+    "Name": "India Shelter Finance Corporation",
+    "Sector": "Housing Finance",
+    "Industry": "Housing Finance"
+  },
+  {
+    "Name": "Easy Trip Planners",
+    "Sector": "Online",
+    "Industry": "Online"
+  },
+  {
+    "Name": "Man Infraconstruction",
+    "Sector": "Infrastructure",
+    "Industry": "Infrastructure"
+  },
+  {
+    "Name": "Aurionpro Solutions",
+    "Sector": "IT",
+    "Industry": "IT - Software"
+  },
+  {
+    "Name": "Tamilnad Mercantile Bank",
+    "Sector": "Banks - Pvt.",
+    "Industry": "Banks - Private Sector"
+  },
+  {
+    "Name": "Jindal Worldwide",
+    "Sector": "Textile",
+    "Industry": "Textile - Apparel & Products"
+  },
+  {
+    "Name": "Choice International",
+    "Sector": "Broking",
+    "Industry": "Broking"
+  },
+  {
+    "Name": "Dilip Buildcon",
+    "Sector": "Infrastructure",
+    "Industry": "Infrastructure"
+  },
+  {
+    "Name": "Marksans Pharma",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "South Indian Bank",
+    "Sector": "Banks - Pvt.",
+    "Industry": "Banks - Private Sector"
+  },
+  {
+    "Name": "Dhanuka Agritech",
+    "Sector": "Fertilizers & Agro Chemicals",
+    "Industry": "Fertilizers & Agro Chemicals"
+  },
+  {
+    "Name": "Balaji Amines",
+    "Sector": "Chemicals",
+    "Industry": "Specialty Chemicals"
+  },
+  {
+    "Name": "Jana Small Finance Bank",
+    "Sector": "Finance",
+    "Industry": "SFB / Microfinance"
+  },
+  {
+    "Name": "eMudhra",
+    "Sector": "Online",
+    "Industry": "Online"
+  },
+  {
+    "Name": "Suprajit Engineering",
+    "Sector": "Automobiles",
+    "Industry": "Auto Ancilliary"
+  },
+  {
+    "Name": "Transport Corporation of India",
+    "Sector": "Logistics",
+    "Industry": "Logistics"
+  },
+  {
+    "Name": "KRBL",
+    "Sector": "Consumer Goods",
+    "Industry": "Rice"
+  },
+  {
+    "Name": "Va Tech Wabag",
+    "Sector": "Industrials",
+    "Industry": "Non-Electrical Equipments"
+  },
+  {
+    "Name": "HMT",
+    "Sector": "Industrials",
+    "Industry": "Industrials"
+  },
+  {
+    "Name": "Laxmi Organic Industries",
+    "Sector": "Chemicals",
+    "Industry": "Specialty Chemicals"
+  },
+  {
+    "Name": "Time Technoplast",
+    "Sector": "Packaging",
+    "Industry": "Packaging"
+  },
+  {
+    "Name": "PDS",
+    "Sector": "Textile",
+    "Industry": "Textile - Apparel & Products"
+  },
+  {
+    "Name": "India Tourism Development Corporation",
+    "Sector": "Hotels",
+    "Industry": "Hotels"
+  },
+  {
+    "Name": "ASK Automotive",
+    "Sector": "Automobiles",
+    "Industry": "Auto Ancilliary"
+  },
+  {
+    "Name": "India Cements",
+    "Sector": "Cement",
+    "Industry": "Cement"
+  },
+  {
+    "Name": "Nesco",
+    "Sector": "Realty",
+    "Industry": "Realty"
+  },
+  {
+    "Name": "Rolex Rings",
+    "Sector": "Automobiles",
+    "Industry": "Auto Ancilliary"
+  },
+  {
+    "Name": "IIFL Securities",
+    "Sector": "Broking",
+    "Industry": "Broking"
+  },
+  {
+    "Name": "Gujarat Ambuja Exports",
+    "Sector": "Consumer Goods",
+    "Industry": "Edible Oil"
+  },
+  {
+    "Name": "Blue Jet Healthcare Ltd",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "Jai Corp",
+    "Sector": "Industrials",
+    "Industry": "Plastic Products"
+  },
+  {
+    "Name": "Surya Roshni",
+    "Sector": "Metal",
+    "Industry": "Steel"
+  },
+  {
+    "Name": "VIP Industries",
+    "Sector": "Consumer Durables",
+    "Industry": "Consumer Durables"
+  },
+  {
+    "Name": "VST Industries",
+    "Sector": "Consumer Goods",
+    "Industry": "Cigarettes"
+  },
+  {
+    "Name": "Paisalo Digital",
+    "Sector": "Broking",
+    "Industry": "Broking"
+  },
+  {
+    "Name": "Max Estates",
+    "Sector": "Finance",
+    "Industry": "Finance & Investments"
+  },
+  {
+    "Name": "Edelweiss Financial Services",
+    "Sector": "Broking",
+    "Industry": "Broking"
+  },
+  {
+    "Name": "Nazara Technologies",
+    "Sector": "Online",
+    "Industry": "Online"
+  },
+  {
+    "Name": "Sterlite Technologies",
+    "Sector": "Telecom",
+    "Industry": "Telecom - Equipment & Infra Services"
+  },
+  {
+    "Name": "Sansera Engineering",
+    "Sector": "Automobiles",
+    "Industry": "Auto Ancilliary"
+  },
+  {
+    "Name": "Indigo Paints",
+    "Sector": "B. Mat*",
+    "Industry": "Paints"
+  },
+  {
+    "Name": "IFB Industries",
+    "Sector": "Consumer Durables",
+    "Industry": "Consumer Durables"
+  },
+  {
+    "Name": "Borosil Renewables",
+    "Sector": "Power",
+    "Industry": "Power Generation"
+  },
+  {
+    "Name": "SIS",
+    "Sector": "Misc.",
+    "Industry": "Misc."
+  },
+  {
+    "Name": "Arvind Fashions",
+    "Sector": "Textile",
+    "Industry": "Textile - Apparel & Products"
+  },
+  {
+    "Name": "Welspun Enterprises",
+    "Sector": "Infrastructure",
+    "Industry": "Infrastructure"
+  },
+  {
+    "Name": "Allcargo Logistics",
+    "Sector": "Logistics",
+    "Industry": "Logistics"
+  },
+  {
+    "Name": "Kirloskar Industries",
+    "Sector": "HoldCo*",
+    "Industry": "HoldCo*"
+  },
+  {
+    "Name": "Kesoram Industries",
+    "Sector": "Cement",
+    "Industry": "Cement"
+  },
+  {
+    "Name": "Ashoka Buildcon",
+    "Sector": "Infrastructure",
+    "Industry": "Infrastructure"
+  },
+  {
+    "Name": "MSTC",
+    "Sector": "Misc.",
+    "Industry": "Trading"
+  },
+  {
+    "Name": "PTC India",
+    "Sector": "Misc.",
+    "Industry": "Misc."
+  },
+  {
+    "Name": "Rallis India",
+    "Sector": "Fertilizers & Agro Chemicals",
+    "Industry": "Fertilizers & Agro Chemicals"
+  },
+  {
+    "Name": "EPL",
+    "Sector": "Packaging",
+    "Industry": "Packaging"
+  },
+  {
+    "Name": "J Kumar Infraprojects",
+    "Sector": "Infrastructure",
+    "Industry": "Infrastructure"
+  },
+  {
+    "Name": "Dodla Dairy",
+    "Sector": "Consumer Goods",
+    "Industry": "Dairy"
+  },
+  {
+    "Name": "Technocraft Industries (India)",
+    "Sector": "Metal",
+    "Industry": "Steel"
+  },
+  {
+    "Name": "Sundaram Finance Holdings",
+    "Sector": "Finance",
+    "Industry": "Finance & Investments"
+  },
+  {
+    "Name": "Ethos",
+    "Sector": "Retail",
+    "Industry": "Retail"
+  },
+  {
+    "Name": "GMM Pfaudler",
+    "Sector": "Industrials",
+    "Industry": "Non-Electrical Equipments"
+  },
+  {
+    "Name": "NIIT Learning Systems",
+    "Sector": "Misc.",
+    "Industry": "Education"
+  },
+  {
+    "Name": "R Systems International",
+    "Sector": "IT",
+    "Industry": "IT - Software"
+  },
+  {
+    "Name": "Paradeep Phosphates",
+    "Sector": "Fertilizers & Agro Chemicals",
+    "Industry": "Fertilizers & Agro Chemicals"
+  },
+  {
+    "Name": "Gabriel India",
+    "Sector": "Automobiles",
+    "Industry": "Auto Ancilliary"
+  },
+  {
+    "Name": "CSB Bank",
+    "Sector": "Banks - Pvt.",
+    "Industry": "Banks - Private Sector"
+  },
+  {
+    "Name": "Utkarsh Small Finance Bank",
+    "Sector": "Finance",
+    "Industry": "SFB / Microfinance"
+  },
+  {
+    "Name": "Tips Industries",
+    "Sector": "Media",
+    "Industry": "Movies & TV"
+  },
+  {
+    "Name": "Share India Securities",
+    "Sector": "Broking",
+    "Industry": "Broking"
+  },
+  {
+    "Name": "Gujarat Alkalies & Chemicals",
+    "Sector": "Chemicals",
+    "Industry": "Commodity Chemicals"
+  },
+  {
+    "Name": "Gokaldas Exports",
+    "Sector": "Textile",
+    "Industry": "Textile - Apparel & Products"
+  },
+  {
+    "Name": "Hindustan Foods",
+    "Sector": "Consumer Goods",
+    "Industry": "Food Processing"
+  },
+  {
+    "Name": "Go Fashion (India)",
+    "Sector": "Textile",
+    "Industry": "Textile - Apparel & Products"
+  },
+  {
+    "Name": "TD Power Systems",
+    "Sector": "Industrials",
+    "Industry": "Electrical Equipments"
+  },
+  {
+    "Name": "MTAR Technologies",
+    "Sector": "Defence",
+    "Industry": "Defence"
+  },
+  {
+    "Name": "TARC",
+    "Sector": "Realty",
+    "Industry": "Realty"
+  },
+  {
+    "Name": "DB Corp",
+    "Sector": "Media",
+    "Industry": "Newspaper & Radio"
+  },
+  {
+    "Name": "Patel Engineering",
+    "Sector": "Infrastructure",
+    "Industry": "Infrastructure"
+  },
+  {
+    "Name": "Sudarshan Chemical Industries",
+    "Sector": "Chemicals",
+    "Industry": "Diversified Chemicals"
+  },
+  {
+    "Name": "Hemisphere Properties India",
+    "Sector": "Realty",
+    "Industry": "Realty"
+  },
+  {
+    "Name": "National Fertilizers",
+    "Sector": "Fertilizers & Agro Chemicals",
+    "Industry": "Fertilizers & Agro Chemicals"
+  },
+  {
+    "Name": "Spandana Sphoorty Financial",
+    "Sector": "Finance",
+    "Industry": "Finance & Investments"
+  },
+  {
+    "Name": "Epigral",
+    "Sector": "Chemicals",
+    "Industry": "Specialty Chemicals"
+  },
+  {
+    "Name": "Pricol",
+    "Sector": "Automobiles",
+    "Industry": "Auto Ancilliary"
+  },
+  {
+    "Name": "Rain Industries",
+    "Sector": "Metal",
+    "Industry": "Mining & Mineral"
+  },
+  {
+    "Name": "Restaurant Brands Asia",
+    "Sector": "Consumer Goods",
+    "Industry": "Restaurants"
+  },
+  {
+    "Name": "Vaibhav Global",
+    "Sector": "Retail",
+    "Industry": "Retail"
+  },
+  {
+    "Name": "Aarti Pharmalabs",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "V-Mart Retail",
+    "Sector": "Retail",
+    "Industry": "Retail"
+  },
+  {
+    "Name": "Cyient DLM",
+    "Sector": "Consumer Durables",
+    "Industry": "Consumer Durables"
+  },
+  {
+    "Name": "Healthcare Global Enterprises",
+    "Sector": "Healthcare Delivery",
+    "Industry": "Healthcare Delivery"
+  },
+  {
+    "Name": "Shakti Pumps (India)",
+    "Sector": "Industrials",
+    "Industry": "Non-Electrical Equipments"
+  },
+  {
+    "Name": "ICRA",
+    "Sector": "Finance",
+    "Industry": "Credit Rating Agency"
+  },
+  {
+    "Name": "Diamond Power Infrastructure",
+    "Sector": "Power",
+    "Industry": "Power Infra, Trans. Equipment & Services"
+  },
+  {
+    "Name": "Orchid Pharma",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "Heritage Foods",
+    "Sector": "Consumer Goods",
+    "Industry": "Dairy"
+  },
+  {
+    "Name": "Bajaj Hindusthan Sugar",
+    "Sector": "Sugar",
+    "Industry": "Sugar"
+  },
+  {
+    "Name": "Sharda Motor Industries",
+    "Sector": "Automobiles",
+    "Industry": "Auto Ancilliary"
+  },
+  {
+    "Name": "Gateway Distriparks",
+    "Sector": "Logistics",
+    "Industry": "Logistics"
+  },
+  {
+    "Name": "Orient Electric",
+    "Sector": "Consumer Durables",
+    "Industry": "Consumer Durables"
+  },
+  {
+    "Name": "Shilpa Medicare",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "Tilaknagar Industries",
+    "Sector": "Consumer Goods",
+    "Industry": "Alcohol"
+  },
+  {
+    "Name": "VRL Logistics",
+    "Sector": "Logistics",
+    "Industry": "Logistics"
+  },
+  {
+    "Name": "Johnson Controls-Hitachi Air Conditioning India",
+    "Sector": "Consumer Durables",
+    "Industry": "Consumer Durables"
+  },
+  {
+    "Name": "Dynamatic Technologies",
+    "Sector": "Industrials",
+    "Industry": "Non-Electrical Equipments"
+  },
+  {
+    "Name": "Jamna Auto Industries",
+    "Sector": "Automobiles",
+    "Industry": "Auto Ancilliary"
+  },
+  {
+    "Name": "Jain Irrigation Systems",
+    "Sector": "Pipes",
+    "Industry": "Pipes"
+  },
+  {
+    "Name": "Garware Hi-Tech Films",
+    "Sector": "Packaging",
+    "Industry": "Packaging"
+  },
+  {
+    "Name": "Wonderla Holidays",
+    "Sector": "Misc.",
+    "Industry": "Tourism"
+  },
+  {
+    "Name": "Mas Financial Services",
+    "Sector": "Finance",
+    "Industry": "Finance & Investments"
+  },
+  {
+    "Name": "Harsha Engineers International",
+    "Sector": "Automobiles",
+    "Industry": "Auto Ancilliary"
+  },
+  {
+    "Name": "Fusion Micro Finance",
+    "Sector": "Finance",
+    "Industry": "SFB / Microfinance"
+  },
+  {
+    "Name": "GHCL",
+    "Sector": "Chemicals",
+    "Industry": "Commodity Chemicals"
+  },
+  {
+    "Name": "Privi Speciality Chemicals",
+    "Sector": "Chemicals",
+    "Industry": "Specialty Chemicals"
+  },
+  {
+    "Name": "Heidelberg Cement India",
+    "Sector": "Cement",
+    "Industry": "Cement"
+  },
+  {
+    "Name": "Bharat Rasayan",
+    "Sector": "Fertilizers & Agro Chemicals",
+    "Industry": "Fertilizers & Agro Chemicals"
+  },
+  {
+    "Name": "GMR Power and Urban Infra",
+    "Sector": "Infrastructure",
+    "Industry": "Infrastructure"
+  },
+  {
+    "Name": "JTEKT India",
+    "Sector": "Automobiles",
+    "Industry": "Auto Ancilliary"
+  },
+  {
+    "Name": "Orient Cement",
+    "Sector": "Cement",
+    "Industry": "Cement"
+  },
+  {
+    "Name": "Ami Organics",
+    "Sector": "Chemicals",
+    "Industry": "Specialty Chemicals"
+  },
+  {
+    "Name": "Kaveri Seed Company",
+    "Sector": "Agriculture",
+    "Industry": "Agriculture"
+  },
+  {
+    "Name": "TeamLease Services",
+    "Sector": "Misc.",
+    "Industry": "Misc."
+  },
+  {
+    "Name": "Aarti Drugs",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "Gulf Oil Lubricants India",
+    "Sector": "Chemicals",
+    "Industry": "Commodity Chemicals"
+  },
+  {
+    "Name": "Sanghvi Movers",
+    "Sector": "Industrials",
+    "Industry": "Non-Electrical Equipments"
+  },
+  {
+    "Name": "Balmer Lawrie & Company",
+    "Sector": "Misc.",
+    "Industry": "Diversified"
+  },
+  {
+    "Name": "Jayaswal Neco Industries",
+    "Sector": "Industrials",
+    "Industry": "Industrials"
+  },
+  {
+    "Name": "TCI Express",
+    "Sector": "Logistics",
+    "Industry": "Logistics"
+  },
+  {
+    "Name": "Paras Defence and Space Technologies",
+    "Sector": "Defence",
+    "Industry": "Defence"
+  },
+  {
+    "Name": "Fedbank Financial Services",
+    "Sector": "Finance",
+    "Industry": "Finance & Investments"
+  },
+  {
+    "Name": "AGI Greenpac",
+    "Sector": "Packaging",
+    "Industry": "Packaging"
+  },
+  {
+    "Name": "NOCIL",
+    "Sector": "Chemicals",
+    "Industry": "Commodity Chemicals"
+  },
+  {
+    "Name": "West Coast Paper Mills",
+    "Sector": "Paper",
+    "Industry": "Paper"
+  },
+  {
+    "Name": "Entero Healthcare Solutions",
+    "Sector": "Healthcare Delivery",
+    "Industry": "Healthcare Delivery"
+  },
+  {
+    "Name": "Black Box",
+    "Sector": "IT",
+    "Industry": "IT - Software"
+  },
+  {
+    "Name": "Ashiana Housing",
+    "Sector": "Realty",
+    "Industry": "Realty"
+  },
+  {
+    "Name": "Advanced Enzyme Technologies",
+    "Sector": "Chemicals",
+    "Industry": "Specialty Chemicals"
+  },
+  {
+    "Name": "Lux Industries",
+    "Sector": "Textile",
+    "Industry": "Textile - Apparel & Products"
+  },
+  {
+    "Name": "Banco Products (India)",
+    "Sector": "Automobiles",
+    "Industry": "Auto Ancilliary"
+  },
+  {
+    "Name": "Kewal Kiran Clothing",
+    "Sector": "Textile",
+    "Industry": "Textile - Apparel & Products"
+  },
+  {
+    "Name": "Sula Vineyards",
+    "Sector": "Consumer Goods",
+    "Industry": "Alcohol"
+  },
+  {
+    "Name": "Pilani Investment and Industries Corporation",
+    "Sector": "HoldCo*",
+    "Industry": "HoldCo*"
+  },
+  {
+    "Name": "DCB Bank",
+    "Sector": "Banks - Pvt.",
+    "Industry": "Banks - Private Sector"
+  },
+  {
+    "Name": "Venus Pipes & Tubes",
+    "Sector": "Pipes",
+    "Industry": "Pipes"
+  },
+  {
+    "Name": "Rossari Biotech",
+    "Sector": "Chemicals",
+    "Industry": "Specialty Chemicals"
+  },
+  {
+    "Name": "Neogen Chemicals",
+    "Sector": "Chemicals",
+    "Industry": "Specialty Chemicals"
+  },
+  {
+    "Name": "Imagicaaworld Entertainment",
+    "Sector": "Misc.",
+    "Industry": "Tourism"
+  },
+  {
+    "Name": "Shanthi Gears",
+    "Sector": "Automobiles",
+    "Industry": "Auto Ancilliary"
+  },
+  {
+    "Name": "Indian Metals & Ferro Alloys",
+    "Sector": "Metal",
+    "Industry": "Mining & Mineral"
+  },
+  {
+    "Name": "Samhi Hotels",
+    "Sector": "Hotels",
+    "Industry": "Hotels"
+  },
+  {
+    "Name": "Inox Green Energy Services",
+    "Sector": "Power",
+    "Industry": "Power Generation"
+  },
+  {
+    "Name": "Skipper",
+    "Sector": "Telecom",
+    "Industry": "Telecom - Equipment & Infra Services"
+  },
+  {
+    "Name": "Subros",
+    "Sector": "Automobiles",
+    "Industry": "Auto Ancilliary"
+  },
+  {
+    "Name": "Manorama Industries",
+    "Sector": "Consumer Goods",
+    "Industry": "Edible Oil"
+  },
+  {
+    "Name": "Gopal Snacks",
+    "Sector": "Consumer Goods",
+    "Industry": "Food Processing"
+  },
+  {
+    "Name": "Fineotex Chemical",
+    "Sector": "Chemicals",
+    "Industry": "Specialty Chemicals"
+  },
+  {
+    "Name": "DCX Systems",
+    "Sector": "Defence",
+    "Industry": "Defence"
+  },
+  {
+    "Name": "Gensol Engineering",
+    "Sector": "Misc.",
+    "Industry": "Misc."
+  },
+  {
+    "Name": "Hinduja Global Solutions",
+    "Sector": "IT",
+    "Industry": "BPO/KPO"
+  },
+  {
+    "Name": "The Orissa Minerals Development Company",
+    "Sector": "Metal",
+    "Industry": "Mining & Mineral"
+  },
+  {
+    "Name": "Muthoot Microfin",
+    "Sector": "Finance",
+    "Industry": "SFB / Microfinance"
+  },
+  {
+    "Name": "LG Balakrishnan & Bros",
+    "Sector": "Automobiles",
+    "Industry": "Auto Ancilliary"
+  },
+  {
+    "Name": "Medi Assist Healthcare Services",
+    "Sector": "Finance",
+    "Industry": "Insurance"
+  },
+  {
+    "Name": "Greenpanel Industries",
+    "Sector": "B. Mat*",
+    "Industry": "B. Mat*"
+  },
+  {
+    "Name": "Hathway Cable & Datacom",
+    "Sector": "Media",
+    "Industry": "Movies & TV"
+  },
+  {
+    "Name": "Sharda Cropchem",
+    "Sector": "Fertilizers & Agro Chemicals",
+    "Industry": "Fertilizers & Agro Chemicals"
+  },
+  {
+    "Name": "Thangamayil Jewellery",
+    "Sector": "Consumer Goods",
+    "Industry": "Jewellery"
+  },
+  {
+    "Name": "Unichem Laboratories",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "JTL Industries",
+    "Sector": "Pipes",
+    "Industry": "Pipes"
+  },
+  {
+    "Name": "Exicom Tele-Systems ..",
+    "Sector": "Power",
+    "Industry": "Renewable Energy Equipment & Services"
+  },
+  {
+    "Name": "Ashapura Minechem",
+    "Sector": "Metal",
+    "Industry": "Mining & Mineral"
+  },
+  {
+    "Name": "Sunflag Iron & Steel Company",
+    "Sector": "Metal",
+    "Industry": "Steel"
+  },
+  {
+    "Name": "Styrenix Performance Materials",
+    "Sector": "Chemicals",
+    "Industry": "Commodity Chemicals"
+  },
+  {
+    "Name": "ISMT",
+    "Sector": "Metal",
+    "Industry": "Steel"
+  },
+  {
+    "Name": "Premier Explosives",
+    "Sector": "Industrials",
+    "Industry": "Industrials"
+  },
+  {
+    "Name": "JNK India",
+    "Sector": "Industrials",
+    "Industry": "Non-Electrical Equipments"
+  },
+  {
+    "Name": "CarTrade Tech",
+    "Sector": "Online",
+    "Industry": "Online"
+  },
+  {
+    "Name": "Bajaj Consumer Care",
+    "Sector": "Consumer Goods",
+    "Industry": "Personal Care"
+  },
+  {
+    "Name": "Borosil",
+    "Sector": "Consumer Durables",
+    "Industry": "Consumer Durables"
+  },
+  {
+    "Name": "Bannari Amman Sugars",
+    "Sector": "Sugar",
+    "Industry": "Sugar"
+  },
+  {
+    "Name": "Hikal",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "Apeejay Surrendra Park Hotels",
+    "Sector": "Hotels",
+    "Industry": "Hotels"
+  },
+  {
+    "Name": "Cigniti Technologies",
+    "Sector": "IT",
+    "Industry": "IT - Software"
+  },
+  {
+    "Name": "Bombay Dyeing & Manufacturing Company",
+    "Sector": "Textile",
+    "Industry": "Textile - Yarn/Fabric/Processing"
+  },
+  {
+    "Name": "Yatharth Hospital & Trauma Care Services",
+    "Sector": "Healthcare Delivery",
+    "Industry": "Healthcare Delivery"
+  },
+  {
+    "Name": "Delta Corp",
+    "Sector": "Misc.",
+    "Industry": "Tourism"
+  },
+  {
+    "Name": "Kalyani Steels",
+    "Sector": "Metal",
+    "Industry": "Steel"
+  },
+  {
+    "Name": "Maithan Alloys",
+    "Sector": "Metal",
+    "Industry": "Mining & Mineral"
+  },
+  {
+    "Name": "Lumax Auto Technologies",
+    "Sector": "Automobiles",
+    "Industry": "Auto Ancilliary"
+  },
+  {
+    "Name": "Savita Oil Technologies",
+    "Sector": "Chemicals",
+    "Industry": "Commodity Chemicals"
+  },
+  {
+    "Name": "Zaggle Prepaid Ocean Services",
+    "Sector": "IT",
+    "Industry": "IT - Software"
+  },
+  {
+    "Name": "Gufic BioSciences",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "The Anup Engineering",
+    "Sector": "Industrials",
+    "Industry": "Electrical Equipments"
+  },
+  {
+    "Name": "Indostar Capital Finance",
+    "Sector": "Finance",
+    "Industry": "Finance & Investments"
+  },
+  {
+    "Name": "Sindhu Trade Links",
+    "Sector": "Logistics",
+    "Industry": "Logistics"
+  },
+  {
+    "Name": "Gujarat Industries Power Company",
+    "Sector": "Power",
+    "Industry": "Power Generation"
+  },
+  {
+    "Name": "La Opala RG",
+    "Sector": "Consumer Durables",
+    "Industry": "Consumer Durables"
+  },
+  {
+    "Name": "Datamatics Global Services",
+    "Sector": "IT",
+    "Industry": "IT - Software"
+  },
+  {
+    "Name": "Ramky Infrastructure",
+    "Sector": "Infrastructure",
+    "Industry": "Infrastructure"
+  },
+  {
+    "Name": "MPS",
+    "Sector": "Misc.",
+    "Industry": "Printing, Publishing & Stationery"
+  },
+  {
+    "Name": "TCNS Clothing Co.",
+    "Sector": "Textile",
+    "Industry": "Textile - Apparel & Products"
+  },
+  {
+    "Name": "Navneet Education",
+    "Sector": "Misc.",
+    "Industry": "Printing, Publishing & Stationery"
+  },
+  {
+    "Name": "Nucleus Software Exports",
+    "Sector": "IT",
+    "Industry": "IT - Software"
+  },
+  {
+    "Name": "Steel Strips Wheels",
+    "Sector": "Automobiles",
+    "Industry": "Auto Ancilliary"
+  },
+  {
+    "Name": "BF Utilities",
+    "Sector": "Power",
+    "Industry": "Power Generation"
+  },
+  {
+    "Name": "Bajel Projects",
+    "Sector": "Power",
+    "Industry": "Power Infra, Trans. Equipment & Services"
+  },
+  {
+    "Name": "Thyrocare Technologies",
+    "Sector": "Healthcare Delivery",
+    "Industry": "Healthcare Delivery"
+  },
+  {
+    "Name": "Greenply Industries",
+    "Sector": "B. Mat*",
+    "Industry": "B. Mat*"
+  },
+  {
+    "Name": "Dalmia Bharat Sugar and Industries",
+    "Sector": "Sugar",
+    "Industry": "Sugar"
+  },
+  {
+    "Name": "Avalon Technologies",
+    "Sector": "Consumer Durables",
+    "Industry": "Consumer Durables"
+  },
+  {
+    "Name": "Swaraj Engines",
+    "Sector": "Automobiles",
+    "Industry": "Auto Ancilliary"
+  },
+  {
+    "Name": "Honda India Power Products",
+    "Sector": "Industrials",
+    "Industry": "Electrical Equipments"
+  },
+  {
+    "Name": "Sandhar Technologies",
+    "Sector": "Automobiles",
+    "Industry": "Auto Ancilliary"
+  },
+  {
+    "Name": "VST Tillers Tractors",
+    "Sector": "Agriculture",
+    "Industry": "Agri Machinery/Equip."
+  },
+  {
+    "Name": "Uflex",
+    "Sector": "Packaging",
+    "Industry": "Packaging"
+  },
+  {
+    "Name": "Mahindra Logistics",
+    "Sector": "Logistics",
+    "Industry": "Logistics"
+  },
+  {
+    "Name": "Kolte-Patil Developers",
+    "Sector": "Realty",
+    "Industry": "Realty"
+  },
+  {
+    "Name": "KDDL",
+    "Sector": "Consumer Durables",
+    "Industry": "Consumer Durables"
+  },
+  {
+    "Name": "Salasar Techno Engineering",
+    "Sector": "Metal",
+    "Industry": "Steel"
+  },
+  {
+    "Name": "Repco Home Finance",
+    "Sector": "Housing Finance",
+    "Industry": "Housing Finance"
+  },
+  {
+    "Name": "TVS Srichakra",
+    "Sector": "Automobiles",
+    "Industry": "Tyres"
+  },
+  {
+    "Name": "ideaForge Technology",
+    "Sector": "Defence",
+    "Industry": "Defence"
+  },
+  {
+    "Name": "Sagar Cements",
+    "Sector": "Cement",
+    "Industry": "Cement"
+  },
+  {
+    "Name": "Tide Water Oil Company India",
+    "Sector": "Chemicals",
+    "Industry": "Commodity Chemicals"
+  },
+  {
+    "Name": "FIEM Industries",
+    "Sector": "Automobiles",
+    "Industry": "Auto Ancilliary"
+  },
+  {
+    "Name": "Dollar Industries",
+    "Sector": "Textile",
+    "Industry": "Textile - Apparel & Products"
+  },
+  {
+    "Name": "Bhagiradha Chemicals & Industries",
+    "Sector": "Fertilizers & Agro Chemicals",
+    "Industry": "Fertilizers & Agro Chemicals"
+  },
+  {
+    "Name": "Shipping Corporation..",
+    "Sector": "Misc.",
+    "Industry": "Misc."
+  },
+  {
+    "Name": "CARE Ratings",
+    "Sector": "Finance",
+    "Industry": "Credit Rating Agency"
+  },
+  {
+    "Name": "Sundaram-Clayton",
+    "Sector": "Automobiles",
+    "Industry": "Auto Ancilliary"
+  },
+  {
+    "Name": "Vadilal Industries",
+    "Sector": "Consumer Goods",
+    "Industry": "Food Processing"
+  },
+  {
+    "Name": "Shaily Engineering Plastics",
+    "Sector": "Industrials",
+    "Industry": "Plastic Products"
+  },
+  {
+    "Name": "Supriya Lifescience",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "NRB Bearings",
+    "Sector": "Automobiles",
+    "Industry": "Auto Ancilliary"
+  },
+  {
+    "Name": "Prakash Industries",
+    "Sector": "Metal",
+    "Industry": "Steel"
+  },
+  {
+    "Name": "Apollo Micro Systems",
+    "Sector": "Defence",
+    "Industry": "Defence"
+  },
+  {
+    "Name": "Ganesha Ecosphere",
+    "Sector": "Textile",
+    "Industry": "Textile - Yarn/Fabric/Processing"
+  },
+  {
+    "Name": "Wendt (India)",
+    "Sector": "Industrials",
+    "Industry": "Non-Electrical Equipments"
+  },
+  {
+    "Name": "Thirumalai Chemicals",
+    "Sector": "Chemicals",
+    "Industry": "Commodity Chemicals"
+  },
+  {
+    "Name": "Pitti Engineering",
+    "Sector": "Industrials",
+    "Industry": "Non-Electrical Equipments"
+  },
+  {
+    "Name": "Prime Focus",
+    "Sector": "Media",
+    "Industry": "Movies & TV"
+  },
+  {
+    "Name": "Greaves Cotton",
+    "Sector": "Automobiles",
+    "Industry": "Auto Ancilliary"
+  },
+  {
+    "Name": "Shivalik Bimetal Controls",
+    "Sector": "Industrials",
+    "Industry": "Industrials"
+  },
+  {
+    "Name": "SEPC",
+    "Sector": "Infrastructure",
+    "Industry": "Infrastructure"
+  },
+  {
+    "Name": "Balu Forge Industries",
+    "Sector": "Industrials",
+    "Industry": "Industrials"
+  },
+  {
+    "Name": "Flair Writing Industries Ltd",
+    "Sector": "Misc.",
+    "Industry": "Printing, Publishing & Stationery"
+  },
+  {
+    "Name": "Saksoft",
+    "Sector": "IT",
+    "Industry": "IT - Software"
+  },
+  {
+    "Name": "Shalby",
+    "Sector": "Healthcare Delivery",
+    "Industry": "Healthcare Delivery"
+  },
+  {
+    "Name": "Arvind SmartSpaces",
+    "Sector": "Realty",
+    "Industry": "Realty"
+  },
+  {
+    "Name": "Unitech",
+    "Sector": "Realty",
+    "Industry": "Realty"
+  },
+  {
+    "Name": "Sequent Scientific",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "Dhani Services",
+    "Sector": "Finance",
+    "Industry": "Finance & Investments"
+  },
+  {
+    "Name": "Dolphin Offshore Enterprises",
+    "Sector": "Industrials",
+    "Industry": "Oil & Gas"
+  },
+  {
+    "Name": "SML Isuzu",
+    "Sector": "Automobiles",
+    "Industry": "Commercial Vehicles"
+  },
+  {
+    "Name": "Dish TV India",
+    "Sector": "Media",
+    "Industry": "Movies & TV"
+  },
+  {
+    "Name": "HLE Glascoat",
+    "Sector": "Industrials",
+    "Industry": "Non-Electrical Equipments"
+  },
+  {
+    "Name": "Automotive Axles",
+    "Sector": "Automobiles",
+    "Industry": "Auto Ancilliary"
+  },
+  {
+    "Name": "Indoco Remedies",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "Dredging Corporation Of India",
+    "Sector": "Infrastructure",
+    "Industry": "Shipping"
+  },
+  {
+    "Name": "Somany Ceramics",
+    "Sector": "B. Mat*",
+    "Industry": "Ceramics"
+  },
+  {
+    "Name": "EMS",
+    "Sector": "Infrastructure",
+    "Industry": "Infrastructure"
+  },
+  {
+    "Name": "KCP",
+    "Sector": "Cement",
+    "Industry": "Cement"
+  },
+  {
+    "Name": "Thejo Engineering",
+    "Sector": "Infrastructure",
+    "Industry": "Infrastructure"
+  },
+  {
+    "Name": "M M Forgings",
+    "Sector": "Automobiles",
+    "Industry": "Auto Ancilliary"
+  },
+  {
+    "Name": "Goodluck India",
+    "Sector": "Metal",
+    "Industry": "Steel"
+  },
+  {
+    "Name": "Mayur Uniquoters",
+    "Sector": "Industrials",
+    "Industry": "Plastic Products"
+  },
+  {
+    "Name": "Jash Engineering",
+    "Sector": "Industrials",
+    "Industry": "Non-Electrical Equipments"
+  },
+  {
+    "Name": "Rajratan Global Wire",
+    "Sector": "Metal",
+    "Industry": "Steel"
+  },
+  {
+    "Name": "Landmark Cars",
+    "Sector": "Misc.",
+    "Industry": "Trading"
+  },
+  {
+    "Name": "Vindhya Telelinks",
+    "Sector": "Telecom",
+    "Industry": "Telecom - Equipment & Infra Services"
+  },
+  {
+    "Name": "Morepen Laboratories",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "Nilkamal",
+    "Sector": "Consumer Durables",
+    "Industry": "Consumer Durables"
+  },
+  {
+    "Name": "Seamec",
+    "Sector": "Infrastructure",
+    "Industry": "Shipping"
+  },
+  {
+    "Name": "Tasty Bite Eatables",
+    "Sector": "Consumer Goods",
+    "Industry": "Food Processing"
+  },
+  {
+    "Name": "Bharat Bijlee",
+    "Sector": "Industrials",
+    "Industry": "Electrical Equipments"
+  },
+  {
+    "Name": "Innova Captab",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "Stylam Industries",
+    "Sector": "B. Mat*",
+    "Industry": "B. Mat*"
+  },
+  {
+    "Name": "HPL Electric & Power",
+    "Sector": "Consumer Durables",
+    "Industry": "Consumer Durables"
+  },
+  {
+    "Name": "S H Kelkar & Company",
+    "Sector": "Chemicals",
+    "Industry": "Specialty Chemicals"
+  },
+  {
+    "Name": "India Glycols",
+    "Sector": "Chemicals",
+    "Industry": "Commodity Chemicals"
+  },
+  {
+    "Name": "Jaiprakash Associates",
+    "Sector": "Infrastructure",
+    "Industry": "Infrastructure"
+  },
+  {
+    "Name": "Capacit'e Infraprojects",
+    "Sector": "Realty",
+    "Industry": "Realty"
+  },
+  {
+    "Name": "D P Abhushan",
+    "Sector": "Consumer Goods",
+    "Industry": "Jewellery"
+  },
+  {
+    "Name": "Apollo Pipes",
+    "Sector": "Pipes",
+    "Industry": "Pipes"
+  },
+  {
+    "Name": "HMA Agro Industries",
+    "Sector": "Consumer Goods",
+    "Industry": "Food Processing"
+  },
+  {
+    "Name": "EIH Associated Hotels",
+    "Sector": "Hotels",
+    "Industry": "Hotels"
+  },
+  {
+    "Name": "Pearl Global Industries",
+    "Sector": "Textile",
+    "Industry": "Textile - Apparel & Products"
+  },
+  {
+    "Name": "Man Industries (India)",
+    "Sector": "Pipes",
+    "Industry": "Pipes"
+  },
+  {
+    "Name": "ESAF Small Finance Bank",
+    "Sector": "Finance",
+    "Industry": "SFB / Microfinance"
+  },
+  {
+    "Name": "Dishman Carbogen Amcis",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "Sai Silks (Kalamandir)",
+    "Sector": "Textile",
+    "Industry": "Textile - Apparel & Products"
+  },
+  {
+    "Name": "Polyplex Corporation",
+    "Sector": "Packaging",
+    "Industry": "Packaging"
+  },
+  {
+    "Name": "Hindware Home Innovation",
+    "Sector": "Consumer Durables",
+    "Industry": "Consumer Durables"
+  },
+  {
+    "Name": "GTL Infrastructure",
+    "Sector": "Telecom",
+    "Industry": "Telecom - Equipment & Infra Services"
+  },
+  {
+    "Name": "Sanghi Industries",
+    "Sector": "Cement",
+    "Industry": "Cement"
+  },
+  {
+    "Name": "GE Power India",
+    "Sector": "Power",
+    "Industry": "Power Infra, Trans. Equipment & Services"
+  },
+  {
+    "Name": "India Pesticides",
+    "Sector": "Fertilizers & Agro Chemicals",
+    "Industry": "Fertilizers & Agro Chemicals"
+  },
+  {
+    "Name": "Satin Creditcare Network",
+    "Sector": "Finance",
+    "Industry": "SFB / Microfinance"
+  },
+  {
+    "Name": "Mold-Tek Packaging",
+    "Sector": "Packaging",
+    "Industry": "Packaging"
+  },
+  {
+    "Name": "Accelya Solutions India",
+    "Sector": "IT",
+    "Industry": "IT - Software"
+  },
+  {
+    "Name": "Vakrangee",
+    "Sector": "Misc.",
+    "Industry": "Misc."
+  },
+  {
+    "Name": "Websol Energy Systems",
+    "Sector": "Power",
+    "Industry": "Renewable Energy Equipment & Services"
+  },
+  {
+    "Name": "Tarsons Products",
+    "Sector": "Healthcare Delivery",
+    "Industry": "Healthcare Delivery"
+  },
+  {
+    "Name": "Mahanagar Telephone Nigam",
+    "Sector": "Telecom",
+    "Industry": "Telecom - Services"
+  },
+  {
+    "Name": "Alembic",
+    "Sector": "Misc.",
+    "Industry": "Diversified"
+  },
+  {
+    "Name": "Venky's (India)",
+    "Sector": "Consumer Goods",
+    "Industry": "Food Processing"
+  },
+  {
+    "Name": "Lumax Industries",
+    "Sector": "Automobiles",
+    "Industry": "Auto Ancilliary"
+  },
+  {
+    "Name": "Confidence Petroleum India",
+    "Sector": "Misc.",
+    "Industry": "Misc."
+  },
+  {
+    "Name": "Kingfa Science & Technology (India)",
+    "Sector": "Industrials",
+    "Industry": "Plastic Products"
+  },
+  {
+    "Name": "PSP Projects",
+    "Sector": "Infrastructure",
+    "Industry": "Infrastructure"
+  },
+  {
+    "Name": "Marathon Nextgen Realty",
+    "Sector": "Realty",
+    "Industry": "Realty"
+  },
+  {
+    "Name": "Universal Cables",
+    "Sector": "Industrials",
+    "Industry": "Cables"
+  },
+  {
+    "Name": "PC Jeweller",
+    "Sector": "Consumer Goods",
+    "Industry": "Jewellery"
+  },
+  {
+    "Name": "Vishnu Chemicals",
+    "Sector": "Chemicals",
+    "Industry": "Diversified Chemicals"
+  },
+  {
+    "Name": "Ugro Capital",
+    "Sector": "Finance",
+    "Industry": "Finance & Investments"
+  },
+  {
+    "Name": "Arman Financial Services",
+    "Sector": "Finance",
+    "Industry": "Finance & Investments"
+  },
+  {
+    "Name": "Den Networks",
+    "Sector": "Media",
+    "Industry": "Movies & TV"
+  },
+  {
+    "Name": "PTC India Financial Services",
+    "Sector": "Finance",
+    "Industry": "Finance & Investments"
+  },
+  {
+    "Name": "Bhansali Engineering Polymers",
+    "Sector": "Chemicals",
+    "Industry": "Commodity Chemicals"
+  },
+  {
+    "Name": "Cupid",
+    "Sector": "Misc.",
+    "Industry": "Misc."
+  },
+  {
+    "Name": "Oriental Hotels",
+    "Sector": "Hotels",
+    "Industry": "Hotels"
+  },
+  {
+    "Name": "Dreamfolks Services",
+    "Sector": "Misc.",
+    "Industry": "Misc."
+  },
+  {
+    "Name": "Huhtamaki India",
+    "Sector": "Packaging",
+    "Industry": "Packaging"
+  },
+  {
+    "Name": "Quick Heal Technologies",
+    "Sector": "IT",
+    "Industry": "IT - Software"
+  },
+  {
+    "Name": "SJS Enterprises",
+    "Sector": "Automobiles",
+    "Industry": "Auto Ancilliary"
+  },
+  {
+    "Name": "Hindustan Oil Exploration Company",
+    "Sector": "Industrials",
+    "Industry": "Oil & Gas"
+  },
+  {
+    "Name": "Precision Wires India",
+    "Sector": "Metal",
+    "Industry": "Non Ferrous Metals"
+  },
+  {
+    "Name": "RPG Life Sciences",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "E2E Networks",
+    "Sector": "IT",
+    "Industry": "IT - Software"
+  },
+  {
+    "Name": "Dolat Algotech",
+    "Sector": "Broking",
+    "Industry": "Broking"
+  },
+  {
+    "Name": "Foseco India",
+    "Sector": "Chemicals",
+    "Industry": "Specialty Chemicals"
+  },
+  {
+    "Name": "Ajmera Realty & Infra India",
+    "Sector": "Realty",
+    "Industry": "Realty"
+  },
+  {
+    "Name": "Jindal Poly Films",
+    "Sector": "Packaging",
+    "Industry": "Packaging"
+  },
+  {
+    "Name": "ADF Foods",
+    "Sector": "Consumer Goods",
+    "Industry": "Food Processing"
+  },
+  {
+    "Name": "Mangalam Cement",
+    "Sector": "Cement",
+    "Industry": "Cement"
+  },
+  {
+    "Name": "Eveready Industries India",
+    "Sector": "Consumer Durables",
+    "Industry": "Consumer Durables"
+  },
+  {
+    "Name": "Geojit Financial Services",
+    "Sector": "Broking",
+    "Industry": "Broking"
+  },
+  {
+    "Name": "Artemis Medicare Services",
+    "Sector": "Healthcare Delivery",
+    "Industry": "Healthcare Delivery"
+  },
+  {
+    "Name": "Filatex India",
+    "Sector": "Textile",
+    "Industry": "Textile - Yarn/Fabric/Processing"
+  },
+  {
+    "Name": "Federal-Mogul Goetze (India)",
+    "Sector": "Automobiles",
+    "Industry": "Auto Ancilliary"
+  },
+  {
+    "Name": "Astec Lifesciences",
+    "Sector": "Fertilizers & Agro Chemicals",
+    "Industry": "Fertilizers & Agro Chemicals"
+  },
+  {
+    "Name": "Vardhman Special Steels",
+    "Sector": "Metal",
+    "Industry": "Steel"
+  },
+  {
+    "Name": "BLS E-Services",
+    "Sector": "IT",
+    "Industry": "IT - Software"
+  },
+  {
+    "Name": "IOL Chemicals and Pharmaceuticals",
+    "Sector": "Chemicals",
+    "Industry": "Commodity Chemicals"
+  },
+  {
+    "Name": "Tatva Chintan Pharma Chem",
+    "Sector": "Chemicals",
+    "Industry": "Specialty Chemicals"
+  },
+  {
+    "Name": "Panama Petrochem",
+    "Sector": "Chemicals",
+    "Industry": "Specialty Chemicals"
+  },
+  {
+    "Name": "Mukand",
+    "Sector": "Metal",
+    "Industry": "Steel"
+  },
+  {
+    "Name": "Jubilant Industries",
+    "Sector": "Chemicals",
+    "Industry": "Commodity Chemicals"
+  },
+  {
+    "Name": "Fino Payments Bank",
+    "Sector": "Banks - Pvt.",
+    "Industry": "Banks - Private Sector"
+  },
+  {
+    "Name": "Optiemus Infracom",
+    "Sector": "Misc.",
+    "Industry": "Trading"
+  },
+  {
+    "Name": "Uniparts India",
+    "Sector": "Agriculture",
+    "Industry": "Agri Machinery/Equip."
+  },
+  {
+    "Name": "Vishnu Prakash R Punglia",
+    "Sector": "Infrastructure",
+    "Industry": "Infrastructure"
+  },
+  {
+    "Name": "Pennar Industries",
+    "Sector": "Metal",
+    "Industry": "Steel"
+  },
+  {
+    "Name": "Vidhi Specialty Food Ingredients",
+    "Sector": "Chemicals",
+    "Industry": "Commodity Chemicals"
+  },
+  {
+    "Name": "Gokul Agro Resources",
+    "Sector": "Consumer Goods",
+    "Industry": "Edible Oil"
+  },
+  {
+    "Name": "RPSG Ventures",
+    "Sector": "IT",
+    "Industry": "IT - Software"
+  },
+  {
+    "Name": "Sasken Technologies",
+    "Sector": "IT",
+    "Industry": "IT - Software"
+  },
+  {
+    "Name": "IFGL Refractories",
+    "Sector": "Industrials",
+    "Industry": "Industrials"
+  },
+  {
+    "Name": "Globus Spirits",
+    "Sector": "Consumer Goods",
+    "Industry": "Alcohol"
+  },
+  {
+    "Name": "Xpro India",
+    "Sector": "Packaging",
+    "Industry": "Packaging"
+  },
+  {
+    "Name": "Carysil",
+    "Sector": "B. Mat*",
+    "Industry": "Ceramics"
+  },
+  {
+    "Name": "JITF Infralogistics",
+    "Sector": "Logistics",
+    "Industry": "Logistics"
+  },
+  {
+    "Name": "Jyoti Structures",
+    "Sector": "Industrials",
+    "Industry": "Electrical Equipments"
+  },
+  {
+    "Name": "BF Investment",
+    "Sector": "HoldCo*",
+    "Industry": "HoldCo*"
+  },
+  {
+    "Name": "Paramount Communications",
+    "Sector": "Industrials",
+    "Industry": "Cables"
+  },
+  {
+    "Name": "Apcotex Industries",
+    "Sector": "Industrials",
+    "Industry": "Rubber"
+  },
+  {
+    "Name": "Sangam (India)",
+    "Sector": "Textile",
+    "Industry": "Textile - Yarn/Fabric/Processing"
+  },
+  {
+    "Name": "Indraprastha Medical Corporation",
+    "Sector": "Healthcare Delivery",
+    "Industry": "Healthcare Delivery"
+  },
+  {
+    "Name": "Rashi Peripherals",
+    "Sector": "Misc.",
+    "Industry": "Trading"
+  },
+  {
+    "Name": "Abans Holdings",
+    "Sector": "HoldCo*",
+    "Industry": "HoldCo*"
+  },
+  {
+    "Name": "Andhra Paper",
+    "Sector": "Paper",
+    "Industry": "Paper"
+  },
+  {
+    "Name": "Seshasayee Paper & Boards",
+    "Sector": "Paper",
+    "Industry": "Paper"
+  },
+  {
+    "Name": "IKIO Lighting",
+    "Sector": "Consumer Durables",
+    "Industry": "Consumer Durables"
+  },
+  {
+    "Name": "Centum Electronics",
+    "Sector": "Consumer Durables",
+    "Industry": "Consumer Durables"
+  },
+  {
+    "Name": "AXISCADES Technologies",
+    "Sector": "IT",
+    "Industry": "IT - Software"
+  },
+  {
+    "Name": "Parag Milk Foods",
+    "Sector": "Consumer Goods",
+    "Industry": "Dairy"
+  },
+  {
+    "Name": "Barbeque-Nation Hospitality",
+    "Sector": "Consumer Goods",
+    "Industry": "Restaurants"
+  },
+  {
+    "Name": "Ramco Industries",
+    "Sector": "B. Mat*",
+    "Industry": "B. Mat*"
+  },
+  {
+    "Name": "HIL",
+    "Sector": "B. Mat*",
+    "Industry": "B. Mat*"
+  },
+  {
+    "Name": "Taj GVK Hotels & Resorts",
+    "Sector": "Hotels",
+    "Industry": "Hotels"
+  },
+  {
+    "Name": "Meghmani Organics",
+    "Sector": "Chemicals",
+    "Industry": "Commodity Chemicals"
+  },
+  {
+    "Name": "Amrutanjan Health Care",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "Suven Life Sciences",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "Yasho Industries",
+    "Sector": "Chemicals",
+    "Industry": "Commodity Chemicals"
+  },
+  {
+    "Name": "Rupa & Company",
+    "Sector": "Textile",
+    "Industry": "Textile - Apparel & Products"
+  },
+  {
+    "Name": "GOCL Corporation",
+    "Sector": "Chemicals",
+    "Industry": "Commodity Chemicals"
+  },
+  {
+    "Name": "Krsnaa Diagnostics",
+    "Sector": "Healthcare Delivery",
+    "Industry": "Healthcare Delivery"
+  },
+  {
+    "Name": "Suryoday Small Finance Bank",
+    "Sector": "Finance",
+    "Industry": "SFB / Microfinance"
+  },
+  {
+    "Name": "Prataap Snacks",
+    "Sector": "Consumer Goods",
+    "Industry": "Food Processing"
+  },
+  {
+    "Name": "Sigachi Industries",
+    "Sector": "Chemicals",
+    "Industry": "Commodity Chemicals"
+  },
+  {
+    "Name": "V2 Retail",
+    "Sector": "Retail",
+    "Industry": "Retail"
+  },
+  {
+    "Name": "Siyaram Silk Mills",
+    "Sector": "Textile",
+    "Industry": "Textile - Apparel & Products"
+  },
+  {
+    "Name": "Gandhar Oil Refinery (India)",
+    "Sector": "Industrials",
+    "Industry": "Refineries"
+  },
+  {
+    "Name": "Divgi Torqtransfer Systems",
+    "Sector": "Automobiles",
+    "Industry": "Auto Ancilliary"
+  },
+  {
+    "Name": "Mufin Green Finance",
+    "Sector": "Finance",
+    "Industry": "Finance & Investments"
+  },
+  {
+    "Name": "Orient Green Power Company",
+    "Sector": "Power",
+    "Industry": "Power Generation"
+  },
+  {
+    "Name": "Peninsula Land",
+    "Sector": "Realty",
+    "Industry": "Realty"
+  },
+  {
+    "Name": "Bombay Super Hybrid Seeds",
+    "Sector": "Agriculture",
+    "Industry": "Agriculture"
+  },
+  {
+    "Name": "Hi-Tech Pipes",
+    "Sector": "Pipes",
+    "Industry": "Pipes"
+  },
+  {
+    "Name": "TTK Healthcare",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "Alicon Castalloy",
+    "Sector": "Automobiles",
+    "Industry": "Auto Ancilliary"
+  },
+  {
+    "Name": "DCM Shriram Industries",
+    "Sector": "Sugar",
+    "Industry": "Sugar"
+  },
+  {
+    "Name": "Yatra Online",
+    "Sector": "Online",
+    "Industry": "Online"
+  },
+  {
+    "Name": "Genesys International Corporation",
+    "Sector": "IT",
+    "Industry": "IT - Software"
+  },
+  {
+    "Name": "EPACK Durables",
+    "Sector": "Consumer Durables",
+    "Industry": "Consumer Durables"
+  },
+  {
+    "Name": "Pokarna",
+    "Sector": "B. Mat*",
+    "Industry": "B. Mat*"
+  },
+  {
+    "Name": "Wheels India",
+    "Sector": "Automobiles",
+    "Industry": "Auto Ancilliary"
+  },
+  {
+    "Name": "Indian Hume Pipe Company",
+    "Sector": "Infrastructure",
+    "Industry": "Infrastructure"
+  },
+  {
+    "Name": "Themis Medicare",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "B L Kashyap & Sons",
+    "Sector": "Infrastructure",
+    "Industry": "Infrastructure"
+  },
+  {
+    "Name": "Cantabil Retail India",
+    "Sector": "Textile",
+    "Industry": "Textile - Apparel & Products"
+  },
+  {
+    "Name": "TCPL Packaging",
+    "Sector": "Packaging",
+    "Industry": "Packaging"
+  },
+  {
+    "Name": "Madhya Bharat Agro Products",
+    "Sector": "Fertilizers & Agro Chemicals",
+    "Industry": "Fertilizers & Agro Chemicals"
+  },
+  {
+    "Name": "Reliance Industrial InfraStructure",
+    "Sector": "Misc.",
+    "Industry": "Diversified"
+  },
+  {
+    "Name": "Jagran Prakashan",
+    "Sector": "Media",
+    "Industry": "Newspaper & Radio"
+  },
+  {
+    "Name": "Expleo Solutions",
+    "Sector": "IT",
+    "Industry": "IT - Software"
+  },
+  {
+    "Name": "Aeroflex Industries",
+    "Sector": "Industrials",
+    "Industry": "Industrials"
+  },
+  {
+    "Name": "Kalyani Investment Company",
+    "Sector": "HoldCo*",
+    "Industry": "HoldCo*"
+  },
+  {
+    "Name": "PNB Gilts",
+    "Sector": "Broking",
+    "Industry": "Broking"
+  },
+  {
+    "Name": "IRM Energy",
+    "Sector": "Industrials",
+    "Industry": "Gas Distribution"
+  },
+  {
+    "Name": "Updater Services",
+    "Sector": "Misc.",
+    "Industry": "Misc."
+  },
+  {
+    "Name": "Talbros Automotive Components",
+    "Sector": "Automobiles",
+    "Industry": "Auto Ancilliary"
+  },
+  {
+    "Name": "Nitin Spinners",
+    "Sector": "Textile",
+    "Industry": "Textile - Yarn/Fabric/Processing"
+  },
+  {
+    "Name": "Shriram Properties",
+    "Sector": "Realty",
+    "Industry": "Realty"
+  },
+  {
+    "Name": "Precision Camshafts",
+    "Sector": "Automobiles",
+    "Industry": "Auto Ancilliary"
+  },
+  {
+    "Name": "Marine Electricals (India)",
+    "Sector": "Industrials",
+    "Industry": "Electrical Equipments"
+  },
+  {
+    "Name": "Tamil Nadu Newsprint And Papers",
+    "Sector": "Paper",
+    "Industry": "Paper"
+  },
+  {
+    "Name": "Servotech Power Systems",
+    "Sector": "Power",
+    "Industry": "Power Infra, Trans. Equipment & Services"
+  },
+  {
+    "Name": "GTPL Hathway",
+    "Sector": "Telecom",
+    "Industry": "Telecom - Services"
+  },
+  {
+    "Name": "Jindal Drilling & Industries",
+    "Sector": "Industrials",
+    "Industry": "Oil & Gas"
+  },
+  {
+    "Name": "Bharat Wire Ropes",
+    "Sector": "Metal",
+    "Industry": "Steel"
+  },
+  {
+    "Name": "The Hi-Tech Gears",
+    "Sector": "Automobiles",
+    "Industry": "Auto Ancilliary"
+  },
+  {
+    "Name": "Deep Industries",
+    "Sector": "Industrials",
+    "Industry": "Oil & Gas"
+  },
+  {
+    "Name": "Ador Welding",
+    "Sector": "Industrials",
+    "Industry": "Non-Electrical Equipments"
+  },
+  {
+    "Name": "Rama Steel Tubes",
+    "Sector": "Metal",
+    "Industry": "Steel"
+  },
+  {
+    "Name": "Camlin Fine Sciences",
+    "Sector": "Chemicals",
+    "Industry": "Specialty Chemicals"
+  },
+  {
+    "Name": "Rossell India",
+    "Sector": "Defence",
+    "Industry": "Defence"
+  },
+  {
+    "Name": "Swelect Energy Systems",
+    "Sector": "Power",
+    "Industry": "Power Infra, Trans. Equipment & Services"
+  },
+  {
+    "Name": "Spacenet Enterprises India",
+    "Sector": "Online",
+    "Industry": "Online"
+  },
+  {
+    "Name": "Insecticides (India)",
+    "Sector": "Fertilizers & Agro Chemicals",
+    "Industry": "Fertilizers & Agro Chemicals"
+  },
+  {
+    "Name": "Nelco",
+    "Sector": "Telecom",
+    "Industry": "Telecom - Equipment & Infra Services"
+  },
+  {
+    "Name": "Suraj Estate Developers",
+    "Sector": "Realty",
+    "Industry": "Realty"
+  },
+  {
+    "Name": "Popular Vehicles and..",
+    "Sector": "Misc.",
+    "Industry": "Trading"
+  },
+  {
+    "Name": "Rane Holdings",
+    "Sector": "HoldCo*",
+    "Industry": "HoldCo*"
+  },
+  {
+    "Name": "Indo Tech Transformers",
+    "Sector": "Power",
+    "Industry": "Power Infra, Trans. Equipment & Services"
+  },
+  {
+    "Name": "Sirca Paints India",
+    "Sector": "B. Mat*",
+    "Industry": "Paints"
+  },
+  {
+    "Name": "Cosmo First",
+    "Sector": "Packaging",
+    "Industry": "Packaging"
+  },
+  {
+    "Name": "Rico Auto Industries",
+    "Sector": "Automobiles",
+    "Industry": "Auto Ancilliary"
+  },
+  {
+    "Name": "India Nippon Electricals",
+    "Sector": "Automobiles",
+    "Industry": "Auto Ancilliary"
+  },
+  {
+    "Name": "HLV",
+    "Sector": "Hotels",
+    "Industry": "Hotels"
+  },
+  {
+    "Name": "GVK Power & Infrastructure",
+    "Sector": "Power",
+    "Industry": "Power Generation"
+  },
+  {
+    "Name": "India Power Corporation",
+    "Sector": "Power",
+    "Industry": "Power Generation"
+  },
+  {
+    "Name": "Monarch Networth Capital",
+    "Sector": "Broking",
+    "Industry": "Broking"
+  },
+  {
+    "Name": "Nalwa Sons Investments",
+    "Sector": "HoldCo*",
+    "Industry": "HoldCo*"
+  },
+  {
+    "Name": "Fairchem Organics",
+    "Sector": "Chemicals",
+    "Industry": "Specialty Chemicals"
+  },
+  {
+    "Name": "Filatex Fashions Ltd.",
+    "Sector": "Textile",
+    "Industry": "Textile - Apparel & Products"
+  },
+  {
+    "Name": "Krishana Phoschem",
+    "Sector": "Fertilizers & Agro Chemicals",
+    "Industry": "Fertilizers & Agro Chemicals"
+  },
+  {
+    "Name": "SMC Global Securities",
+    "Sector": "Broking",
+    "Industry": "Broking"
+  },
+  {
+    "Name": "Pix Transmissions",
+    "Sector": "Industrials",
+    "Industry": "Rubber"
+  },
+  {
+    "Name": "Texmaco Infrastructure & Holdings",
+    "Sector": "Realty",
+    "Industry": "Realty"
+  },
+  {
+    "Name": "Allsec Technologies",
+    "Sector": "IT",
+    "Industry": "BPO/KPO"
+  },
+  {
+    "Name": "Sky Gold",
+    "Sector": "Consumer Goods",
+    "Industry": "Jewellery"
+  },
+  {
+    "Name": "Refex Industries",
+    "Sector": "Chemicals",
+    "Industry": "Commodity Chemicals"
+  },
+  {
+    "Name": "Goldiam International",
+    "Sector": "Consumer Goods",
+    "Industry": "Jewellery"
+  },
+  {
+    "Name": "SMS Pharmaceuticals",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "Subex",
+    "Sector": "IT",
+    "Industry": "IT - Software"
+  },
+  {
+    "Name": "Kiri Industries",
+    "Sector": "Chemicals",
+    "Industry": "Specialty Chemicals"
+  },
+  {
+    "Name": "GNA Axles",
+    "Sector": "Automobiles",
+    "Industry": "Auto Ancilliary"
+  },
+  {
+    "Name": "Stove Kraft",
+    "Sector": "Consumer Durables",
+    "Industry": "Consumer Durables"
+  },
+  {
+    "Name": "DCW",
+    "Sector": "Chemicals",
+    "Industry": "Commodity Chemicals"
+  },
+  {
+    "Name": "Everest Industries",
+    "Sector": "B. Mat*",
+    "Industry": "B. Mat*"
+  },
+  {
+    "Name": "Likhitha Infrastructure",
+    "Sector": "Infrastructure",
+    "Industry": "Infrastructure"
+  },
+  {
+    "Name": "Hercules Hoists",
+    "Sector": "Industrials",
+    "Industry": "Non-Electrical Equipments"
+  },
+  {
+    "Name": "Shankara Building Products",
+    "Sector": "B. Mat*",
+    "Industry": "B. Mat*"
+  },
+  {
+    "Name": "63 Moons Technologies",
+    "Sector": "IT",
+    "Industry": "IT - Software"
+  },
+  {
+    "Name": "Agarwal Industrial Corporation",
+    "Sector": "Chemicals",
+    "Industry": "Specialty Chemicals"
+  },
+  {
+    "Name": "Andhra Sugars",
+    "Sector": "Chemicals",
+    "Industry": "Commodity Chemicals"
+  },
+  {
+    "Name": "Omaxe",
+    "Sector": "Realty",
+    "Industry": "Realty"
+  },
+  {
+    "Name": "Ram Ratna Wires",
+    "Sector": "Metal",
+    "Industry": "Non Ferrous Metals"
+  },
+  {
+    "Name": "Agro Tech Foods",
+    "Sector": "Consumer Goods",
+    "Industry": "Edible Oil"
+  },
+  {
+    "Name": "Motisons Jewellers",
+    "Sector": "Consumer Goods",
+    "Industry": "Jewellery"
+  },
+  {
+    "Name": "BCL Industries",
+    "Sector": "Consumer Goods",
+    "Industry": "Edible Oil"
+  },
+  {
+    "Name": "I G Petrochemicals",
+    "Sector": "Chemicals",
+    "Industry": "Specialty Chemicals"
+  },
+  {
+    "Name": "Yuken India",
+    "Sector": "Industrials",
+    "Industry": "Non-Electrical Equipments"
+  },
+  {
+    "Name": "Bigbloc Construction",
+    "Sector": "B. Mat*",
+    "Industry": "B. Mat*"
+  },
+  {
+    "Name": "Tourism Finance Corporation of India",
+    "Sector": "Finance",
+    "Industry": "Finance & Investments"
+  },
+  {
+    "Name": "Centrum Capital",
+    "Sector": "Broking",
+    "Industry": "Broking"
+  },
+  {
+    "Name": "5Paisa Capital",
+    "Sector": "Broking",
+    "Industry": "Broking"
+  },
+  {
+    "Name": "Hariom Pipe Industries",
+    "Sector": "Metal",
+    "Industry": "Steel"
+  },
+  {
+    "Name": "D-Link (India)",
+    "Sector": "Misc.",
+    "Industry": "Trading"
+  },
+  {
+    "Name": "Shree Digvijay Cement Company",
+    "Sector": "Cement",
+    "Industry": "Cement"
+  },
+  {
+    "Name": "Zota Healthcare",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "Igarashi Motors India",
+    "Sector": "Automobiles",
+    "Industry": "Auto Ancilliary"
+  },
+  {
+    "Name": "Madras Fertilizers",
+    "Sector": "Fertilizers & Agro Chemicals",
+    "Industry": "Fertilizers & Agro Chemicals"
+  },
+  {
+    "Name": "Sadhana Nitro Chem",
+    "Sector": "Chemicals",
+    "Industry": "Commodity Chemicals"
+  },
+  {
+    "Name": "Rishabh Instruments",
+    "Sector": "Industrials",
+    "Industry": "Electrical Equipments"
+  },
+  {
+    "Name": "Hester Biosciences",
+    "Sector": "Agriculture",
+    "Industry": "Agriculture"
+  },
+  {
+    "Name": "Om Infra",
+    "Sector": "Misc.",
+    "Industry": "Diversified"
+  },
+  {
+    "Name": "Dhampur Sugar Mills",
+    "Sector": "Sugar",
+    "Industry": "Sugar"
+  },
+  {
+    "Name": "Steel Exchange India",
+    "Sector": "Metal",
+    "Industry": "Steel"
+  },
+  {
+    "Name": "Signpost India",
+    "Sector": "Media",
+    "Industry": "Advertising"
+  },
+  {
+    "Name": "Solara Active Pharma Sciences",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "Summit Securities",
+    "Sector": "HoldCo*",
+    "Industry": "HoldCo*"
+  },
+  {
+    "Name": "Vascon Engineers",
+    "Sector": "Infrastructure",
+    "Industry": "Infrastructure"
+  },
+  {
+    "Name": "Automotive Stampings and Assemblies",
+    "Sector": "Automobiles",
+    "Industry": "Auto Ancilliary"
+  },
+  {
+    "Name": "Manali Petrochemicals",
+    "Sector": "Chemicals",
+    "Industry": "Specialty Chemicals"
+  },
+  {
+    "Name": "S P Apparels",
+    "Sector": "Textile",
+    "Industry": "Textile - Apparel & Products"
+  },
+  {
+    "Name": "Navkar Corporation",
+    "Sector": "Logistics",
+    "Industry": "Logistics"
+  },
+  {
+    "Name": "GPT Infraprojects",
+    "Sector": "Infrastructure",
+    "Industry": "Infrastructure"
+  },
+  {
+    "Name": "Atul Auto",
+    "Sector": "Automobiles",
+    "Industry": "Commercial Vehicles"
+  },
+  {
+    "Name": "Everest Kanto Cylinder",
+    "Sector": "Packaging",
+    "Industry": "Packaging"
+  },
+  {
+    "Name": "Saurashtra Cements",
+    "Sector": "Cement",
+    "Industry": "Cement"
+  },
+  {
+    "Name": "New Delhi Television",
+    "Sector": "Media",
+    "Industry": "Movies & TV"
+  },
+  {
+    "Name": "Kokuyo Camlin",
+    "Sector": "Misc.",
+    "Industry": "Printing, Publishing & Stationery"
+  },
+  {
+    "Name": "Capital Small Finance Bank",
+    "Sector": "Finance",
+    "Industry": "SFB / Microfinance"
+  },
+  {
+    "Name": "Dynacons Systems & Solutions",
+    "Sector": "IT",
+    "Industry": "IT - Software"
+  },
+  {
+    "Name": "Windlas Biotech",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "Excel Industries",
+    "Sector": "Fertilizers & Agro Chemicals",
+    "Industry": "Fertilizers & Agro Chemicals"
+  },
+  {
+    "Name": "Southern Petrochemicals Industries Corporation",
+    "Sector": "Fertilizers & Agro Chemicals",
+    "Industry": "Fertilizers & Agro Chemicals"
+  },
+  {
+    "Name": "Dwarikesh Sugar Industries",
+    "Sector": "Sugar",
+    "Industry": "Sugar"
+  },
+  {
+    "Name": "Kamdhenu",
+    "Sector": "Metal",
+    "Industry": "Steel"
+  },
+  {
+    "Name": "NGL Fine - Chem",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "Kabra Extrusion Technik",
+    "Sector": "Industrials",
+    "Industry": "Non-Electrical Equipments"
+  },
+  {
+    "Name": "Roto Pumps",
+    "Sector": "Industrials",
+    "Industry": "Non-Electrical Equipments"
+  },
+  {
+    "Name": "NACL Industries",
+    "Sector": "Fertilizers & Agro Chemicals",
+    "Industry": "Fertilizers & Agro Chemicals"
+  },
+  {
+    "Name": "Rane (Madras)",
+    "Sector": "Automobiles",
+    "Industry": "Auto Ancilliary"
+  },
+  {
+    "Name": "Macpower CNC Machines",
+    "Sector": "Industrials",
+    "Industry": "Electrical Equipments"
+  },
+  {
+    "Name": "Salzer Electronics",
+    "Sector": "Consumer Durables",
+    "Industry": "Consumer Durables"
+  },
+  {
+    "Name": "Allcargo Gati",
+    "Sector": "Logistics",
+    "Industry": "Logistics"
+  },
+  {
+    "Name": "Uttam Sugar Mills",
+    "Sector": "Sugar",
+    "Industry": "Sugar"
+  },
+  {
+    "Name": "Century Enka",
+    "Sector": "Textile",
+    "Industry": "Textile - Yarn/Fabric/Processing"
+  },
+  {
+    "Name": "Punjab Chemicals and Crop Protection",
+    "Sector": "Chemicals",
+    "Industry": "Diversified Chemicals"
+  },
+  {
+    "Name": "Amines & Plasticizers",
+    "Sector": "Chemicals",
+    "Industry": "Commodity Chemicals"
+  },
+  {
+    "Name": "Mangalore Chemicals & Fertilizers",
+    "Sector": "Fertilizers & Agro Chemicals",
+    "Industry": "Fertilizers & Agro Chemicals"
+  },
+  {
+    "Name": "NIIT",
+    "Sector": "Misc.",
+    "Industry": "Education"
+  },
+  {
+    "Name": "Kitex Garments",
+    "Sector": "Textile",
+    "Industry": "Textile - Apparel & Products"
+  },
+  {
+    "Name": "Arihant Superstructures",
+    "Sector": "Realty",
+    "Industry": "Realty"
+  },
+  {
+    "Name": "GRP",
+    "Sector": "Automobiles",
+    "Industry": "Auto Ancilliary"
+  },
+  {
+    "Name": "Matrimony.com",
+    "Sector": "Online",
+    "Industry": "Online"
+  },
+  {
+    "Name": "Kuantum Papers",
+    "Sector": "Paper",
+    "Industry": "Paper"
+  },
+  {
+    "Name": "TV Today Network",
+    "Sector": "Media",
+    "Industry": "Movies & TV"
+  },
+  {
+    "Name": "R K Swamy",
+    "Sector": "Misc.",
+    "Industry": "Misc."
+  },
+  {
+    "Name": "Ksolves India",
+    "Sector": "IT",
+    "Industry": "IT - Software"
+  },
+  {
+    "Name": "Heranba Industries",
+    "Sector": "Chemicals",
+    "Industry": "Specialty Chemicals"
+  },
+  {
+    "Name": "Kirloskar Electric Company",
+    "Sector": "Power",
+    "Industry": "Power Infra, Trans. Equipment & Services"
+  },
+  {
+    "Name": "Sterling Tools",
+    "Sector": "Industrials",
+    "Industry": "Industrials"
+  },
+  {
+    "Name": "Aptech",
+    "Sector": "Misc.",
+    "Industry": "Education"
+  },
+  {
+    "Name": "Dynamic Cables",
+    "Sector": "Industrials",
+    "Industry": "Cables"
+  },
+  {
+    "Name": "Control Print",
+    "Sector": "Packaging",
+    "Industry": "Packaging"
+  },
+  {
+    "Name": "AVT Natural Products",
+    "Sector": "Consumer Goods",
+    "Industry": "Edible Oil"
+  },
+  {
+    "Name": "Xchanging Solutions",
+    "Sector": "IT",
+    "Industry": "IT - Software"
+  },
+  {
+    "Name": "India Motor Parts & Accessories",
+    "Sector": "Automobiles",
+    "Industry": "Auto Ancilliary"
+  },
+  {
+    "Name": "Butterfly Gandhimathi Appliances",
+    "Sector": "Consumer Durables",
+    "Industry": "Consumer Durables"
+  },
+  {
+    "Name": "ICE Make Refrigeration",
+    "Sector": "Industrials",
+    "Industry": "Electrical Equipments"
+  },
+  {
+    "Name": "Himatsingka Seide",
+    "Sector": "Textile",
+    "Industry": "Textile - Apparel & Products"
+  },
+  {
+    "Name": "Vertoz Advertising",
+    "Sector": "Media",
+    "Industry": "Advertising"
+  },
+  {
+    "Name": "Antony Waste Handling Cell",
+    "Sector": "Misc.",
+    "Industry": "Misc."
+  },
+  {
+    "Name": "Avadh Sugar & Energy",
+    "Sector": "Sugar",
+    "Industry": "Sugar"
+  },
+  {
+    "Name": "GIC Housing Finance",
+    "Sector": "Housing Finance",
+    "Industry": "Housing Finance"
+  },
+  {
+    "Name": "Max India",
+    "Sector": "Finance",
+    "Industry": "Finance & Investments"
+  },
+  {
+    "Name": "Steel Cast",
+    "Sector": "Industrials",
+    "Industry": "Industrials"
+  },
+  {
+    "Name": "Allcargo Terminals",
+    "Sector": "Logistics",
+    "Industry": "Logistics"
+  },
+  {
+    "Name": "Oriental Aromatics",
+    "Sector": "Chemicals",
+    "Industry": "Specialty Chemicals"
+  },
+  {
+    "Name": "Walchandnagar Industries",
+    "Sector": "Industrials",
+    "Industry": "Electrical Equipments"
+  },
+  {
+    "Name": "Associated Alcohols & Breweries",
+    "Sector": "Consumer Goods",
+    "Industry": "Alcohol"
+  },
+  {
+    "Name": "GPT Healthcare",
+    "Sector": "Healthcare Delivery",
+    "Industry": "Healthcare Delivery"
+  },
+  {
+    "Name": "Shalimar Paints",
+    "Sector": "B. Mat*",
+    "Industry": "Paints"
+  },
+  {
+    "Name": "Nelcast",
+    "Sector": "Industrials",
+    "Industry": "Industrials"
+  },
+  {
+    "Name": "Kopran",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "Veranda Learning Solutions",
+    "Sector": "Online",
+    "Industry": "Online"
+  },
+  {
+    "Name": "Lincoln Pharmaceuticals",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "Eimco Elecon (India)",
+    "Sector": "Metal",
+    "Industry": "Mining & Mineral"
+  },
+  {
+    "Name": "Snowman Logistics",
+    "Sector": "Logistics",
+    "Industry": "Logistics"
+  },
+  {
+    "Name": "Urja Global",
+    "Sector": "Power",
+    "Industry": "Renewable Energy Equipment & Services"
+  },
+  {
+    "Name": "Dhunseri Ventures",
+    "Sector": "Chemicals",
+    "Industry": "Commodity Chemicals"
+  },
+  {
+    "Name": "Monte Carlo Fashions",
+    "Sector": "Textile",
+    "Industry": "Textile - Apparel & Products"
+  },
+  {
+    "Name": "InfoBeans Technologies",
+    "Sector": "IT",
+    "Industry": "IT - Software"
+  },
+  {
+    "Name": "Satia Industries",
+    "Sector": "Paper",
+    "Industry": "Paper"
+  },
+  {
+    "Name": "Raj Rayon Industries",
+    "Sector": "Textile",
+    "Industry": "Textile - Yarn/Fabric/Processing"
+  },
+  {
+    "Name": "BEML Land Assets",
+    "Sector": "Misc.",
+    "Industry": "Misc."
+  },
+  {
+    "Name": "Coffee Day Enterprises",
+    "Sector": "Consumer Goods",
+    "Industry": "Restaurants"
+  },
+  {
+    "Name": "Crest Ventures",
+    "Sector": "Finance",
+    "Industry": "Finance & Investments"
+  },
+  {
+    "Name": "Syncom Formulation (India)",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "Jay Bharat Maruti",
+    "Sector": "Automobiles",
+    "Industry": "Auto Ancilliary"
+  },
+  {
+    "Name": "Ramco Systems",
+    "Sector": "IT",
+    "Industry": "IT - Software"
+  },
+  {
+    "Name": "MIC Electronics",
+    "Sector": "Consumer Durables",
+    "Industry": "Consumer Durables"
+  },
+  {
+    "Name": "Hind Rectifiers",
+    "Sector": "Industrials",
+    "Industry": "Electrical Equipments"
+  },
+  {
+    "Name": "Selan Exploration Technology",
+    "Sector": "Industrials",
+    "Industry": "Oil & Gas"
+  },
+  {
+    "Name": "Hardwyn India",
+    "Sector": "B. Mat*",
+    "Industry": "B. Mat*"
+  },
+  {
+    "Name": "Manoj Vaibhav Gems N Jewellers",
+    "Sector": "Consumer Goods",
+    "Industry": "Jewellery"
+  },
+  {
+    "Name": "G M Breweries",
+    "Sector": "Consumer Goods",
+    "Industry": "Alcohol"
+  },
+  {
+    "Name": "Platinum Industries ..",
+    "Sector": "Chemicals",
+    "Industry": "Specialty Chemicals"
+  },
+  {
+    "Name": "One Point One Solutions",
+    "Sector": "IT",
+    "Industry": "BPO/KPO"
+  },
+  {
+    "Name": "Sastasundar Ventures",
+    "Sector": "Finance",
+    "Industry": "Finance & Investments"
+  },
+  {
+    "Name": "Asian Energy Services",
+    "Sector": "Industrials",
+    "Industry": "Oil & Gas"
+  },
+  {
+    "Name": "Valiant Organics",
+    "Sector": "Chemicals",
+    "Industry": "Commodity Chemicals"
+  },
+  {
+    "Name": "Ganesh Benzoplast",
+    "Sector": "Chemicals",
+    "Industry": "Specialty Chemicals"
+  },
+  {
+    "Name": "Indo Rama Synthetics (India)",
+    "Sector": "Textile",
+    "Industry": "Textile - Yarn/Fabric/Processing"
+  },
+  {
+    "Name": "Uniphos Enterprises",
+    "Sector": "Fertilizers & Agro Chemicals",
+    "Industry": "Fertilizers & Agro Chemicals"
+  },
+  {
+    "Name": "Chaman Lal Setia Exports",
+    "Sector": "Consumer Goods",
+    "Industry": "Rice"
+  },
+  {
+    "Name": "Hubtown",
+    "Sector": "Realty",
+    "Industry": "Realty"
+  },
+  {
+    "Name": "Credo Brands Marketing",
+    "Sector": "Textile",
+    "Industry": "Textile - Apparel & Products"
+  },
+  {
+    "Name": "Ester Industries",
+    "Sector": "Packaging",
+    "Industry": "Packaging"
+  },
+  {
+    "Name": "Vimta Labs",
+    "Sector": "Misc.",
+    "Industry": "Misc."
+  },
+  {
+    "Name": "Bliss GVS Pharma",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "Entertainment Network (India)",
+    "Sector": "Media",
+    "Industry": "Movies & TV"
+  },
+  {
+    "Name": "NCL Industries",
+    "Sector": "Cement",
+    "Industry": "Cement"
+  },
+  {
+    "Name": "Orient Paper & Industries",
+    "Sector": "Paper",
+    "Industry": "Paper"
+  },
+  {
+    "Name": "Creative Newtech",
+    "Sector": "Misc.",
+    "Industry": "Trading"
+  },
+  {
+    "Name": "Eldeco Housing & Industries",
+    "Sector": "Realty",
+    "Industry": "Realty"
+  },
+  {
+    "Name": "Dhanlaxmi Bank",
+    "Sector": "Banks - Pvt.",
+    "Industry": "Banks - Private Sector"
+  },
+  {
+    "Name": "Transindia Real Estate",
+    "Sector": "Realty",
+    "Industry": "Realty"
+  },
+  {
+    "Name": "Faze Three",
+    "Sector": "Textile",
+    "Industry": "Textile - Apparel & Products"
+  },
+  {
+    "Name": "Prakash Pipes",
+    "Sector": "Pipes",
+    "Industry": "Pipes"
+  },
+  {
+    "Name": "Sat Industries",
+    "Sector": "Misc.",
+    "Industry": "Diversified"
+  },
+  {
+    "Name": "MSP Steel & Power",
+    "Sector": "Metal",
+    "Industry": "Steel"
+  },
+  {
+    "Name": "CSL Finance",
+    "Sector": "Finance",
+    "Industry": "Finance & Investments"
+  },
+  {
+    "Name": "Magadh Sugar & Energy",
+    "Sector": "Sugar",
+    "Industry": "Sugar"
+  },
+  {
+    "Name": "Pakka",
+    "Sector": "Paper",
+    "Industry": "Paper"
+  },
+  {
+    "Name": "Sportking India",
+    "Sector": "Textile",
+    "Industry": "Textile - Yarn/Fabric/Processing"
+  },
+  {
+    "Name": "Aurum Proptech",
+    "Sector": "IT",
+    "Industry": "IT - Software"
+  },
+  {
+    "Name": "Focus Lighting and Fixtures",
+    "Sector": "Consumer Durables",
+    "Industry": "Consumer Durables"
+  },
+  {
+    "Name": "Vardhman Holdings",
+    "Sector": "HoldCo*",
+    "Industry": "HoldCo*"
+  },
+  {
+    "Name": "Mukka Proteins",
+    "Sector": "Consumer Goods",
+    "Industry": "Food Processing"
+  },
+  {
+    "Name": "GRM Overseas",
+    "Sector": "Consumer Goods",
+    "Industry": "Rice"
+  },
+  {
+    "Name": "Renaissance Global",
+    "Sector": "Consumer Goods",
+    "Industry": "Jewellery"
+  },
+  {
+    "Name": "Visaka Industries",
+    "Sector": "B. Mat*",
+    "Industry": "B. Mat*"
+  },
+  {
+    "Name": "Royal Orchid Hotels",
+    "Sector": "Hotels",
+    "Industry": "Hotels"
+  },
+  {
+    "Name": "Sandesh",
+    "Sector": "Media",
+    "Industry": "Newspaper & Radio"
+  },
+  {
+    "Name": "Nahar Spinning Mills",
+    "Sector": "Textile",
+    "Industry": "Textile - Apparel & Products"
+  },
+  {
+    "Name": "Krystal Integrated S..",
+    "Sector": "Misc.",
+    "Industry": "Misc."
+  },
+  {
+    "Name": "Dhampur Bio Organics",
+    "Sector": "Sugar",
+    "Industry": "Sugar"
+  },
+  {
+    "Name": "Kellton Tech Solutions",
+    "Sector": "IT",
+    "Industry": "IT - Software"
+  },
+  {
+    "Name": "Silver Touch Technologies",
+    "Sector": "IT",
+    "Industry": "IT - Software"
+  },
+  {
+    "Name": "Repro India",
+    "Sector": "Misc.",
+    "Industry": "Printing, Publishing & Stationery"
+  },
+  {
+    "Name": "Bodal Chemicals",
+    "Sector": "Chemicals",
+    "Industry": "Commodity Chemicals"
+  },
+  {
+    "Name": "Gandhi Special Tubes",
+    "Sector": "Metal",
+    "Industry": "Steel"
+  },
+  {
+    "Name": "Sical Logistics",
+    "Sector": "Logistics",
+    "Industry": "Logistics"
+  },
+  {
+    "Name": "Deccan Cements",
+    "Sector": "Cement",
+    "Industry": "Cement"
+  },
+  {
+    "Name": "Pudumjee Paper Products",
+    "Sector": "Paper",
+    "Industry": "Paper"
+  },
+  {
+    "Name": "Ugar Sugar Works",
+    "Sector": "Sugar",
+    "Industry": "Sugar"
+  },
+  {
+    "Name": "Som Distilleries & Breweries",
+    "Sector": "Consumer Goods",
+    "Industry": "Alcohol"
+  },
+  {
+    "Name": "AGS Transact Technologies",
+    "Sector": "Misc.",
+    "Industry": "Misc."
+  },
+  {
+    "Name": "Zuari Industries",
+    "Sector": "Realty",
+    "Industry": "Realty"
+  },
+  {
+    "Name": "SPML Infra",
+    "Sector": "Infrastructure",
+    "Industry": "Infrastructure"
+  },
+  {
+    "Name": "Sutlej Textiles & Industries",
+    "Sector": "Textile",
+    "Industry": "Textile - Yarn/Fabric/Processing"
+  },
+  {
+    "Name": "NDR Auto Components",
+    "Sector": "Automobiles",
+    "Industry": "Auto Ancilliary"
+  },
+  {
+    "Name": "Asian Granito India",
+    "Sector": "B. Mat*",
+    "Industry": "Ceramics"
+  },
+  {
+    "Name": "Nintec Systems",
+    "Sector": "IT",
+    "Industry": "IT - Software"
+  },
+  {
+    "Name": "Global Surfaces",
+    "Sector": "B. Mat*",
+    "Industry": "B. Mat*"
+  },
+  {
+    "Name": "Ambika Cotton Mills",
+    "Sector": "Textile",
+    "Industry": "Textile - Yarn/Fabric/Processing"
+  },
+  {
+    "Name": "Andhra Cements",
+    "Sector": "Cement",
+    "Industry": "Cement"
+  },
+  {
+    "Name": "Chemcon Speciality Chemicals",
+    "Sector": "Chemicals",
+    "Industry": "Specialty Chemicals"
+  },
+  {
+    "Name": "Chemfab Alkalis",
+    "Sector": "Chemicals",
+    "Industry": "Commodity Chemicals"
+  },
+  {
+    "Name": "Essar Shipping",
+    "Sector": "Infrastructure",
+    "Industry": "Shipping"
+  },
+  {
+    "Name": "Gloster",
+    "Sector": "Textile",
+    "Industry": "Textile - Yarn/Fabric/Processing"
+  },
+  {
+    "Name": "Sree Rayalaseema Hi-Strength Hypo",
+    "Sector": "Chemicals",
+    "Industry": "Commodity Chemicals"
+  },
+  {
+    "Name": "Kriti Industries (India)",
+    "Sector": "Pipes",
+    "Industry": "Pipes"
+  },
+  {
+    "Name": "Onward Technologies",
+    "Sector": "IT",
+    "Industry": "IT - Software"
+  },
+  {
+    "Name": "Heubach Colorants India",
+    "Sector": "Chemicals",
+    "Industry": "Specialty Chemicals"
+  },
+  {
+    "Name": "SBC Exports",
+    "Sector": "Misc.",
+    "Industry": "Misc."
+  },
+  {
+    "Name": "HP Adhesives",
+    "Sector": "Chemicals",
+    "Industry": "Diversified Chemicals"
+  },
+  {
+    "Name": "J G Chemicals",
+    "Sector": "Chemicals",
+    "Industry": "Commodity Chemicals"
+  },
+  {
+    "Name": "Cheviot Company",
+    "Sector": "Textile",
+    "Industry": "Textile - Yarn/Fabric/Processing"
+  },
+  {
+    "Name": "Jagsonpal Pharmaceuticals",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "VLS Finance",
+    "Sector": "Finance",
+    "Industry": "Finance & Investments"
+  },
+  {
+    "Name": "Aditya Birla Money",
+    "Sector": "Broking",
+    "Industry": "Broking"
+  },
+  {
+    "Name": "Elin Electronics",
+    "Sector": "Consumer Durables",
+    "Industry": "Consumer Durables"
+  },
+  {
+    "Name": "Shivalik Rasayan",
+    "Sector": "Fertilizers & Agro Chemicals",
+    "Industry": "Fertilizers & Agro Chemicals"
+  },
+  {
+    "Name": "Zee Media Corporation",
+    "Sector": "Media",
+    "Industry": "Movies & TV"
+  },
+  {
+    "Name": "Jayant Agro Organics",
+    "Sector": "Chemicals",
+    "Industry": "Specialty Chemicals"
+  },
+  {
+    "Name": "Indo Amines",
+    "Sector": "Chemicals",
+    "Industry": "Commodity Chemicals"
+  },
+  {
+    "Name": "Tracxn Technologies",
+    "Sector": "IT",
+    "Industry": "IT - Software"
+  },
+  {
+    "Name": "RSWM",
+    "Sector": "Textile",
+    "Industry": "Textile - Yarn/Fabric/Processing"
+  },
+  {
+    "Name": "Vikas Lifecare",
+    "Sector": "Misc.",
+    "Industry": "Trading"
+  },
+  {
+    "Name": "Dharmaj Crop Guard",
+    "Sector": "Fertilizers & Agro Chemicals",
+    "Industry": "Fertilizers & Agro Chemicals"
+  },
+  {
+    "Name": "Sarveshwar Foods",
+    "Sector": "Consumer Goods",
+    "Industry": "Rice"
+  },
+  {
+    "Name": "Radiant Cash Management Services",
+    "Sector": "Misc.",
+    "Industry": "Misc."
+  },
+  {
+    "Name": "De Nora India",
+    "Sector": "Industrials",
+    "Industry": "Non-Electrical Equipments"
+  },
+  {
+    "Name": "Foods & Inns",
+    "Sector": "Consumer Goods",
+    "Industry": "Food Processing"
+  },
+  {
+    "Name": "Linc",
+    "Sector": "Misc.",
+    "Industry": "Printing, Publishing & Stationery"
+  },
+  {
+    "Name": "Bajaj Healthcare",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "Arrow Greentech",
+    "Sector": "Industrials",
+    "Industry": "Plastic Products"
+  },
+  {
+    "Name": "Oswal Green Tech",
+    "Sector": "Realty",
+    "Industry": "Realty"
+  },
+  {
+    "Name": "Munjal Auto Industries",
+    "Sector": "Automobiles",
+    "Industry": "Auto Ancilliary"
+  },
+  {
+    "Name": "State Trading Corporation Of India",
+    "Sector": "Misc.",
+    "Industry": "Trading"
+  },
+  {
+    "Name": "Rushil Decor",
+    "Sector": "B. Mat*",
+    "Industry": "B. Mat*"
+  },
+  {
+    "Name": "GHCL Textiles",
+    "Sector": "Textile",
+    "Industry": "Textile - Yarn/Fabric/Processing"
+  },
+  {
+    "Name": "Wealth First Portfolio Managers",
+    "Sector": "Broking",
+    "Industry": "Broking"
+  },
+  {
+    "Name": "Chembond Chemicals",
+    "Sector": "Chemicals",
+    "Industry": "Commodity Chemicals"
+  },
+  {
+    "Name": "Spencers Retail",
+    "Sector": "Retail",
+    "Industry": "Retail"
+  },
+  {
+    "Name": "Allied Digital Services",
+    "Sector": "IT",
+    "Industry": "IT - Software"
+  },
+  {
+    "Name": "Hexa Tradex",
+    "Sector": "Misc.",
+    "Industry": "Trading"
+  },
+  {
+    "Name": "Simplex Infrastructures",
+    "Sector": "Infrastructure",
+    "Industry": "Infrastructure"
+  },
+  {
+    "Name": "Bedmutha Industries",
+    "Sector": "Metal",
+    "Industry": "Steel"
+  },
+  {
+    "Name": "Speciality Restaurants",
+    "Sector": "Consumer Goods",
+    "Industry": "Restaurants"
+  },
+  {
+    "Name": "Panacea Biotec",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "Tamilnadu Petroproducts",
+    "Sector": "Chemicals",
+    "Industry": "Commodity Chemicals"
+  },
+  {
+    "Name": "GFL",
+    "Sector": "Chemicals",
+    "Industry": "Specialty Chemicals"
+  },
+  {
+    "Name": "S Chand & Company",
+    "Sector": "Misc.",
+    "Industry": "Printing, Publishing & Stationery"
+  },
+  {
+    "Name": "Sarla Performance Fibers",
+    "Sector": "Textile",
+    "Industry": "Textile - Yarn/Fabric/Processing"
+  },
+  {
+    "Name": "Jindal Poly Investment & Finance Company",
+    "Sector": "Finance",
+    "Industry": "Finance & Investments"
+  },
+  {
+    "Name": "Zuari Agro Chemicals",
+    "Sector": "Fertilizers & Agro Chemicals",
+    "Industry": "Fertilizers & Agro Chemicals"
+  },
+  {
+    "Name": "OnMobile Global",
+    "Sector": "Telecom",
+    "Industry": "Telecom - Services"
+  },
+  {
+    "Name": "DMCC Speciality Chemicals",
+    "Sector": "Chemicals",
+    "Industry": "Commodity Chemicals"
+  },
+  {
+    "Name": "Pondy Oxides & Chemicals",
+    "Sector": "Metal",
+    "Industry": "Non Ferrous Metals"
+  },
+  {
+    "Name": "Sakuma Exports",
+    "Sector": "Misc.",
+    "Industry": "Trading"
+  },
+  {
+    "Name": "Lokesh Machines",
+    "Sector": "Industrials",
+    "Industry": "Non-Electrical Equipments"
+  },
+  {
+    "Name": "W S Industries (India)",
+    "Sector": "Misc.",
+    "Industry": "Misc."
+  },
+  {
+    "Name": "Kothari Petrochemicals",
+    "Sector": "Chemicals",
+    "Industry": "Specialty Chemicals"
+  },
+  {
+    "Name": "DiGiSPICE Technologies",
+    "Sector": "Misc.",
+    "Industry": "Misc."
+  },
+  {
+    "Name": "Nagarjuna Fertilizers and Chemicals",
+    "Sector": "Fertilizers & Agro Chemicals",
+    "Industry": "Fertilizers & Agro Chemicals"
+  },
+  {
+    "Name": "N R Agarwal Industries",
+    "Sector": "Paper",
+    "Industry": "Paper"
+  },
+  {
+    "Name": "Oriental Carbon & Chemicals",
+    "Sector": "Chemicals",
+    "Industry": "Commodity Chemicals"
+  },
+  {
+    "Name": "Shreyas Shipping & Logistics",
+    "Sector": "Infrastructure",
+    "Industry": "Shipping"
+  },
+  {
+    "Name": "Vinyl Chemicals (I)",
+    "Sector": "Misc.",
+    "Industry": "Trading"
+  },
+  {
+    "Name": "Maan Aluminium",
+    "Sector": "Metal",
+    "Industry": "Non Ferrous Metals"
+  },
+  {
+    "Name": "Birla Cable",
+    "Sector": "Industrials",
+    "Industry": "Cables"
+  },
+  {
+    "Name": "Nectar Lifesciences",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "Mold-Tek Technologies",
+    "Sector": "Infrastructure",
+    "Industry": "Infrastructure"
+  },
+  {
+    "Name": "Hindustan Media Ventures",
+    "Sector": "Media",
+    "Industry": "Newspaper & Radio"
+  },
+  {
+    "Name": "PVP Ventures",
+    "Sector": "Realty",
+    "Industry": "Realty"
+  },
+  {
+    "Name": "STEL Holdings",
+    "Sector": "HoldCo*",
+    "Industry": "HoldCo*"
+  },
+  {
+    "Name": "Mindteck (India)",
+    "Sector": "IT",
+    "Industry": "IT - Software"
+  },
+  {
+    "Name": "GeeCee Ventures",
+    "Sector": "Realty",
+    "Industry": "Realty"
+  },
+  {
+    "Name": "The Investment Trust of India",
+    "Sector": "Finance",
+    "Industry": "Finance & Investments"
+  },
+  {
+    "Name": "Brand Concepts",
+    "Sector": "Misc.",
+    "Industry": "Trading"
+  },
+  {
+    "Name": "Hindustan Motors",
+    "Sector": "Automobiles",
+    "Industry": "Auto Ancilliary"
+  },
+  {
+    "Name": "Tribhovandas Bhimji Zaveri",
+    "Sector": "Consumer Goods",
+    "Industry": "Jewellery"
+  },
+  {
+    "Name": "Albert David",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "Rane Brake Lining",
+    "Sector": "Automobiles",
+    "Industry": "Auto Ancilliary"
+  },
+  {
+    "Name": "Bhageria Industries",
+    "Sector": "Chemicals",
+    "Industry": "Specialty Chemicals"
+  },
+  {
+    "Name": "Emami Paper Mills",
+    "Sector": "Paper",
+    "Industry": "Paper"
+  },
+  {
+    "Name": "Arihant Capital Markets",
+    "Sector": "Broking",
+    "Industry": "Broking"
+  },
+  {
+    "Name": "Sakar Healthcare",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "Ruby Mills",
+    "Sector": "Textile",
+    "Industry": "Textile - Yarn/Fabric/Processing"
+  },
+  {
+    "Name": "Goa Carbons",
+    "Sector": "Metal",
+    "Industry": "Non Ferrous Metals"
+  },
+  {
+    "Name": "Apex Frozen Foods",
+    "Sector": "Misc.",
+    "Industry": "Aquaculture"
+  },
+  {
+    "Name": "TPL Plastech",
+    "Sector": "Packaging",
+    "Industry": "Packaging"
+  },
+  {
+    "Name": "D P Wires",
+    "Sector": "Metal",
+    "Industry": "Steel"
+  },
+  {
+    "Name": "MMP Industries",
+    "Sector": "Metal",
+    "Industry": "Non Ferrous Metals"
+  },
+  {
+    "Name": "Menon Bearings",
+    "Sector": "Automobiles",
+    "Industry": "Auto Ancilliary"
+  },
+  {
+    "Name": "Sukhjit Starch & Chemicals",
+    "Sector": "Consumer Goods",
+    "Industry": "Food Processing"
+  },
+  {
+    "Name": "Ashima",
+    "Sector": "Textile",
+    "Industry": "Textile - Yarn/Fabric/Processing"
+  },
+  {
+    "Name": "Jindal Photo",
+    "Sector": "HoldCo*",
+    "Industry": "HoldCo*"
+  },
+  {
+    "Name": "Radhika Jeweltech",
+    "Sector": "Consumer Goods",
+    "Industry": "Jewellery"
+  },
+  {
+    "Name": "Plastiblends India",
+    "Sector": "Chemicals",
+    "Industry": "Specialty Chemicals"
+  },
+  {
+    "Name": "Ind-Swift Laboratories",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "Tantia Constructions",
+    "Sector": "Infrastructure",
+    "Industry": "Infrastructure"
+  },
+  {
+    "Name": "Laxmi Goldorna House",
+    "Sector": "Realty",
+    "Industry": "Realty"
+  },
+  {
+    "Name": "Dhunseri Investments",
+    "Sector": "Finance",
+    "Industry": "Finance & Investments"
+  },
+  {
+    "Name": "Balaji Telefilms",
+    "Sector": "Media",
+    "Industry": "Movies & TV"
+  },
+  {
+    "Name": "Race Eco Chain",
+    "Sector": "Misc.",
+    "Industry": "Trading"
+  },
+  {
+    "Name": "Prime Securities",
+    "Sector": "Broking",
+    "Industry": "Broking"
+  },
+  {
+    "Name": "Hindustan Composites",
+    "Sector": "Automobiles",
+    "Industry": "Auto Ancilliary"
+  },
+  {
+    "Name": "Sreeleathers",
+    "Sector": "Consumer Goods",
+    "Industry": "Shoes"
+  },
+  {
+    "Name": "Donear Industries",
+    "Sector": "Textile",
+    "Industry": "Textile - Apparel & Products"
+  },
+  {
+    "Name": "AVG Logistics",
+    "Sector": "Logistics",
+    "Industry": "Logistics"
+  },
+  {
+    "Name": "Tara Chand Infralogistic Solutions",
+    "Sector": "Logistics",
+    "Industry": "Logistics"
+  },
+  {
+    "Name": "20 Microns",
+    "Sector": "Metal",
+    "Industry": "Mining & Mineral"
+  },
+  {
+    "Name": "Vikas Ecotech",
+    "Sector": "Chemicals",
+    "Industry": "Commodity Chemicals"
+  },
+  {
+    "Name": "FCS Software Solutions",
+    "Sector": "IT",
+    "Industry": "IT - Software"
+  },
+  {
+    "Name": "Ritco Logistics",
+    "Sector": "Logistics",
+    "Industry": "Logistics"
+  },
+  {
+    "Name": "VL E-Governance & IT Solutions",
+    "Sector": "Misc.",
+    "Industry": "Misc."
+  },
+  {
+    "Name": "Mallcom (India)",
+    "Sector": "Textile",
+    "Industry": "Textile - Apparel & Products"
+  },
+  {
+    "Name": "Advani Hotels & Resorts (India)",
+    "Sector": "Hotels",
+    "Industry": "Hotels"
+  },
+  {
+    "Name": "Manaksia",
+    "Sector": "Metal",
+    "Industry": "Non Ferrous Metals"
+  },
+  {
+    "Name": "Pavna Industries",
+    "Sector": "Automobiles",
+    "Industry": "Auto Ancilliary"
+  },
+  {
+    "Name": "Career Point",
+    "Sector": "Misc.",
+    "Industry": "Education"
+  },
+  {
+    "Name": "SKM Egg Products Export (India)",
+    "Sector": "Consumer Goods",
+    "Industry": "Food Processing"
+  },
+  {
+    "Name": "Munjal Showa",
+    "Sector": "Automobiles",
+    "Industry": "Auto Ancilliary"
+  },
+  {
+    "Name": "Kernex Microsystems (India)",
+    "Sector": "Misc.",
+    "Industry": "Misc."
+  },
+  {
+    "Name": "Shree Pushkar Chemicals & Fertilisers",
+    "Sector": "Chemicals",
+    "Industry": "Specialty Chemicals"
+  },
+  {
+    "Name": "Khaitan Chemicals & Fertilizers",
+    "Sector": "Fertilizers & Agro Chemicals",
+    "Industry": "Fertilizers & Agro Chemicals"
+  },
+  {
+    "Name": "Remsons Industries",
+    "Sector": "Automobiles",
+    "Industry": "Auto Ancilliary"
+  },
+  {
+    "Name": "Uravi T & Wedge Lamps",
+    "Sector": "Automobiles",
+    "Industry": "Auto Ancilliary"
+  },
+  {
+    "Name": "Consolidated Finvest & Holdings",
+    "Sector": "Finance",
+    "Industry": "Finance & Investments"
+  },
+  {
+    "Name": "Valiant Laboratories",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "Kamat Hotels (India)",
+    "Sector": "Hotels",
+    "Industry": "Hotels"
+  },
+  {
+    "Name": "Liberty Shoes",
+    "Sector": "Consumer Goods",
+    "Industry": "Shoes"
+  },
+  {
+    "Name": "Nandan Denim",
+    "Sector": "Textile",
+    "Industry": "Textile - Apparel & Products"
+  },
+  {
+    "Name": "Orient Ceratech",
+    "Sector": "Industrials",
+    "Industry": "Non-Electrical Equipments"
+  },
+  {
+    "Name": "HT Media",
+    "Sector": "Media",
+    "Industry": "Newspaper & Radio"
+  },
+  {
+    "Name": "3i Infotech",
+    "Sector": "IT",
+    "Industry": "IT - Software"
+  },
+  {
+    "Name": "IRIS Clothings",
+    "Sector": "Textile",
+    "Industry": "Textile - Apparel & Products"
+  },
+  {
+    "Name": "Khadim India",
+    "Sector": "Consumer Goods",
+    "Industry": "Shoes"
+  },
+  {
+    "Name": "TVS Electronics",
+    "Sector": "Misc.",
+    "Industry": "Misc."
+  },
+  {
+    "Name": "Mirza International",
+    "Sector": "Consumer Goods",
+    "Industry": "Shoes"
+  },
+  {
+    "Name": "Nupur Recyclers",
+    "Sector": "Metal",
+    "Industry": "Non Ferrous Metals"
+  },
+  {
+    "Name": "Pyramid Technoplast",
+    "Sector": "Packaging",
+    "Industry": "Packaging"
+  },
+  {
+    "Name": "Medicamen Biotech",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "Parsvnath Developers",
+    "Sector": "Realty",
+    "Industry": "Realty"
+  },
+  {
+    "Name": "Oricon Enterprises",
+    "Sector": "Misc.",
+    "Industry": "Misc."
+  },
+  {
+    "Name": "Sinclairs Hotels",
+    "Sector": "Hotels",
+    "Industry": "Hotels"
+  },
+  {
+    "Name": "Oswal Agro Mills",
+    "Sector": "Realty",
+    "Industry": "Realty"
+  },
+  {
+    "Name": "Sheetal Cool Products",
+    "Sector": "Consumer Goods",
+    "Industry": "Food Processing"
+  },
+  {
+    "Name": "Ratnaveer Precision Engineering",
+    "Sector": "Metal",
+    "Industry": "Steel"
+  },
+  {
+    "Name": "TruCap Finance",
+    "Sector": "Finance",
+    "Industry": "Finance & Investments"
+  },
+  {
+    "Name": "HCL Infosystems",
+    "Sector": "Misc.",
+    "Industry": "Misc."
+  },
+  {
+    "Name": "Kaya",
+    "Sector": "Consumer Goods",
+    "Industry": "Personal Care"
+  },
+  {
+    "Name": "Anjani Portland Cement",
+    "Sector": "Cement",
+    "Industry": "Cement"
+  },
+  {
+    "Name": "Windsor Machines",
+    "Sector": "Industrials",
+    "Industry": "Non-Electrical Equipments"
+  },
+  {
+    "Name": "Vipul",
+    "Sector": "Realty",
+    "Industry": "Realty"
+  },
+  {
+    "Name": "Kriti Nutrients",
+    "Sector": "Consumer Goods",
+    "Industry": "Edible Oil"
+  },
+  {
+    "Name": "Aarti Surfactants",
+    "Sector": "Chemicals",
+    "Industry": "Specialty Chemicals"
+  },
+  {
+    "Name": "Axita Cotton",
+    "Sector": "Textile",
+    "Industry": "Textile - Yarn/Fabric/Processing"
+  },
+  {
+    "Name": "Nitco Ltd.",
+    "Sector": "B. Mat*",
+    "Industry": "Ceramics"
+  },
+  {
+    "Name": "Music Broadcast",
+    "Sector": "Media",
+    "Industry": "Movies & TV"
+  },
+  {
+    "Name": "Deep Energy Resources",
+    "Sector": "Industrials",
+    "Industry": "Oil & Gas"
+  },
+  {
+    "Name": "Nahar Industrial Enterprises",
+    "Sector": "Textile",
+    "Industry": "Textile - Yarn/Fabric/Processing"
+  },
+  {
+    "Name": "Alankit",
+    "Sector": "Misc.",
+    "Industry": "Misc."
+  },
+  {
+    "Name": "PTL Enterprises",
+    "Sector": "Misc.",
+    "Industry": "Misc."
+  },
+  {
+    "Name": "Genus Paper & Boards",
+    "Sector": "Paper",
+    "Industry": "Paper"
+  },
+  {
+    "Name": "Mazda",
+    "Sector": "Misc.",
+    "Industry": "Diversified"
+  },
+  {
+    "Name": "Reliance Communications",
+    "Sector": "Telecom",
+    "Industry": "Telecom - Services"
+  },
+  {
+    "Name": "Nova Agritech",
+    "Sector": "Agriculture",
+    "Industry": "Agriculture"
+  },
+  {
+    "Name": "Nahar Poly Films",
+    "Sector": "Packaging",
+    "Industry": "Packaging"
+  },
+  {
+    "Name": "MBL Infrastructure",
+    "Sector": "Infrastructure",
+    "Industry": "Infrastructure"
+  },
+  {
+    "Name": "Bhartiya International",
+    "Sector": "Textile",
+    "Industry": "Textile - Apparel & Products"
+  },
+  {
+    "Name": "Bartronics India",
+    "Sector": "Misc.",
+    "Industry": "Misc."
+  },
+  {
+    "Name": "International Conveyors",
+    "Sector": "Industrials",
+    "Industry": "Industrials"
+  },
+  {
+    "Name": "Kilitch Drugs(I)",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "Indo Borax & Chemicals",
+    "Sector": "Chemicals",
+    "Industry": "Commodity Chemicals"
+  },
+  {
+    "Name": "Kritika Wires",
+    "Sector": "Metal",
+    "Industry": "Steel"
+  },
+  {
+    "Name": "Orient Bell",
+    "Sector": "B. Mat*",
+    "Industry": "Ceramics"
+  },
+  {
+    "Name": "Diamines & Chemicals",
+    "Sector": "Chemicals",
+    "Industry": "Specialty Chemicals"
+  },
+  {
+    "Name": "Wanbury",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "Prozone Realty",
+    "Sector": "Realty",
+    "Industry": "Realty"
+  },
+  {
+    "Name": "BPL",
+    "Sector": "Consumer Durables",
+    "Industry": "Consumer Durables"
+  },
+  {
+    "Name": "RBZ Jewellers",
+    "Sector": "Consumer Goods",
+    "Industry": "Jewellery"
+  },
+  {
+    "Name": "Muthoot Capital Services",
+    "Sector": "Finance",
+    "Industry": "Finance & Investments"
+  },
+  {
+    "Name": "Banswara Syntex",
+    "Sector": "Textile",
+    "Industry": "Textile - Yarn/Fabric/Processing"
+  },
+  {
+    "Name": "KCP Sugar & Industries Corporation",
+    "Sector": "Sugar",
+    "Industry": "Sugar"
+  },
+  {
+    "Name": "SIL Investments",
+    "Sector": "Finance",
+    "Industry": "Finance & Investments"
+  },
+  {
+    "Name": "Venus Remedies",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "Kanoria Chemicals & Industries",
+    "Sector": "Chemicals",
+    "Industry": "Commodity Chemicals"
+  },
+  {
+    "Name": "Jet Airways (India)",
+    "Sector": "Misc.",
+    "Industry": "Misc."
+  },
+  {
+    "Name": "Vibhor Steel Tubes",
+    "Sector": "Pipes",
+    "Industry": "Pipes"
+  },
+  {
+    "Name": "MIRC Electronics",
+    "Sector": "Consumer Durables",
+    "Industry": "Consumer Durables"
+  },
+  {
+    "Name": "B&B Triplewall Containers",
+    "Sector": "Paper",
+    "Industry": "Paper"
+  },
+  {
+    "Name": "Sakthi Sugars",
+    "Sector": "Sugar",
+    "Industry": "Sugar"
+  },
+  {
+    "Name": "Zim Laboratories",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "Nahar Capital & Financial Services",
+    "Sector": "HoldCo*",
+    "Industry": "HoldCo*"
+  },
+  {
+    "Name": "Megasoft",
+    "Sector": "IT",
+    "Industry": "IT - Software"
+  },
+  {
+    "Name": "RPP Infra Projects",
+    "Sector": "Infrastructure",
+    "Industry": "Infrastructure"
+  },
+  {
+    "Name": "Precot",
+    "Sector": "Textile",
+    "Industry": "Textile - Yarn/Fabric/Processing"
+  },
+  {
+    "Name": "Shivam Autotech",
+    "Sector": "Automobiles",
+    "Industry": "Auto Ancilliary"
+  },
+  {
+    "Name": "Sadbhav Engineering",
+    "Sector": "Infrastructure",
+    "Industry": "Infrastructure"
+  },
+  {
+    "Name": "AYM Syntex",
+    "Sector": "Textile",
+    "Industry": "Textile - Yarn/Fabric/Processing"
+  },
+  {
+    "Name": "UFO Moviez India",
+    "Sector": "Media",
+    "Industry": "Movies & TV"
+  },
+  {
+    "Name": "Orbit Exports",
+    "Sector": "Textile",
+    "Industry": "Textile - Yarn/Fabric/Processing"
+  },
+  {
+    "Name": "Mahindra EPC Irrigation",
+    "Sector": "Pipes",
+    "Industry": "Pipes"
+  },
+  {
+    "Name": "CL Educate",
+    "Sector": "Misc.",
+    "Industry": "Education"
+  },
+  {
+    "Name": "Geekay Wires",
+    "Sector": "Metal",
+    "Industry": "Steel"
+  },
+  {
+    "Name": "United Drilling Tools",
+    "Sector": "Industrials",
+    "Industry": "Non-Electrical Equipments"
+  },
+  {
+    "Name": "Sahyadri Industries",
+    "Sector": "B. Mat*",
+    "Industry": "B. Mat*"
+  },
+  {
+    "Name": "Synergy Green Industries",
+    "Sector": "Power",
+    "Industry": "Renewable Energy Equipment & Services"
+  },
+  {
+    "Name": "IZMO",
+    "Sector": "Misc.",
+    "Industry": "Misc."
+  },
+  {
+    "Name": "Premier Polyfilm",
+    "Sector": "Packaging",
+    "Industry": "Packaging"
+  },
+  {
+    "Name": "Asahi Songwon Colors",
+    "Sector": "Chemicals",
+    "Industry": "Specialty Chemicals"
+  },
+  {
+    "Name": "Cybertech Systems & Software",
+    "Sector": "IT",
+    "Industry": "IT - Software"
+  },
+  {
+    "Name": "Mawana Sugars",
+    "Sector": "Sugar",
+    "Industry": "Sugar"
+  },
+  {
+    "Name": "R S Software",
+    "Sector": "IT",
+    "Industry": "IT - Software"
+  },
+  {
+    "Name": "Autoline Industries",
+    "Sector": "Automobiles",
+    "Industry": "Auto Ancilliary"
+  },
+  {
+    "Name": "SRG Housing Finance",
+    "Sector": "Housing Finance",
+    "Industry": "Housing Finance"
+  },
+  {
+    "Name": "DIC India",
+    "Sector": "Chemicals",
+    "Industry": "Commodity Chemicals"
+  },
+  {
+    "Name": "Cineline India",
+    "Sector": "Media",
+    "Industry": "Movies & TV"
+  },
+  {
+    "Name": "Vardhman Acrylics",
+    "Sector": "Textile",
+    "Industry": "Textile - Yarn/Fabric/Processing"
+  },
+  {
+    "Name": "Emkay Global Financial Services",
+    "Sector": "Broking",
+    "Industry": "Broking"
+  },
+  {
+    "Name": "Pritika Auto Industries",
+    "Sector": "Automobiles",
+    "Industry": "Auto Ancilliary"
+  },
+  {
+    "Name": "Nila Infrastructures",
+    "Sector": "Realty",
+    "Industry": "Realty"
+  },
+  {
+    "Name": "KM Sugar Mills",
+    "Sector": "Sugar",
+    "Industry": "Sugar"
+  },
+  {
+    "Name": "NBI Industrial Finance Company",
+    "Sector": "Finance",
+    "Industry": "Finance & Investments"
+  },
+  {
+    "Name": "Indo National",
+    "Sector": "Consumer Durables",
+    "Industry": "Consumer Durables"
+  },
+  {
+    "Name": "IFB Agro Industries",
+    "Sector": "Consumer Goods",
+    "Industry": "Alcohol"
+  },
+  {
+    "Name": "Exxaro Tiles",
+    "Sector": "B. Mat*",
+    "Industry": "Ceramics"
+  },
+  {
+    "Name": "Ponni Sugars (Erode)",
+    "Sector": "Sugar",
+    "Industry": "Sugar"
+  },
+  {
+    "Name": "Goldstone Technologies",
+    "Sector": "IT",
+    "Industry": "IT - Software"
+  },
+  {
+    "Name": "SRM Contractors Ltd.",
+    "Sector": "Infrastructure",
+    "Industry": "Infrastructure"
+  },
+  {
+    "Name": "SoftTech Engineers",
+    "Sector": "IT",
+    "Industry": "IT - Software"
+  },
+  {
+    "Name": "Poddar Pigments",
+    "Sector": "Chemicals",
+    "Industry": "Commodity Chemicals"
+  },
+  {
+    "Name": "Modison",
+    "Sector": "Industrials",
+    "Industry": "Industrials"
+  },
+  {
+    "Name": "Shemaroo Entertainment",
+    "Sector": "Media",
+    "Industry": "Movies & TV"
+  },
+  {
+    "Name": "Sigma Solve",
+    "Sector": "Online",
+    "Industry": "Online"
+  },
+  {
+    "Name": "DRC Systems India Ltd",
+    "Sector": "IT",
+    "Industry": "IT - Software"
+  },
+  {
+    "Name": "Emami Realty",
+    "Sector": "Realty",
+    "Industry": "Realty"
+  },
+  {
+    "Name": "Apollo Sindoori Hotels",
+    "Sector": "Hotels",
+    "Industry": "Hotels"
+  },
+  {
+    "Name": "Ruchira Papers",
+    "Sector": "Paper",
+    "Industry": "Paper"
+  },
+  {
+    "Name": "Universus Photo Imagings",
+    "Sector": "Misc.",
+    "Industry": "Misc."
+  },
+  {
+    "Name": "Trigyn Technologies",
+    "Sector": "IT",
+    "Industry": "IT - Software"
+  },
+  {
+    "Name": "Rana Sugars",
+    "Sector": "Sugar",
+    "Industry": "Sugar"
+  },
+  {
+    "Name": "Star Paper Mills",
+    "Sector": "Paper",
+    "Industry": "Paper"
+  },
+  {
+    "Name": "Integra Essentia",
+    "Sector": "Misc.",
+    "Industry": "Diversified"
+  },
+  {
+    "Name": "Kothari Products",
+    "Sector": "Misc.",
+    "Industry": "Trading"
+  },
+  {
+    "Name": "A2Z Infra Engineering",
+    "Sector": "Infrastructure",
+    "Industry": "Infrastructure"
+  },
+  {
+    "Name": "Plaza Wires",
+    "Sector": "Consumer Durables",
+    "Industry": "Consumer Durables"
+  },
+  {
+    "Name": "Nath Bio-Genes (India)",
+    "Sector": "Agriculture",
+    "Industry": "Agriculture"
+  },
+  {
+    "Name": "Lyka Labs",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "DCM Nouvelle",
+    "Sector": "Textile",
+    "Industry": "Textile - Yarn/Fabric/Processing"
+  },
+  {
+    "Name": "IL&FS Investment Managers",
+    "Sector": "Finance",
+    "Industry": "Finance & Investments"
+  },
+  {
+    "Name": "Shyam Century Ferrous",
+    "Sector": "Metal",
+    "Industry": "Mining & Mineral"
+  },
+  {
+    "Name": "Udayshivakumar Infra",
+    "Sector": "Infrastructure",
+    "Industry": "Infrastructure"
+  },
+  {
+    "Name": "Shreyans Industries",
+    "Sector": "Paper",
+    "Industry": "Paper"
+  },
+  {
+    "Name": "Industrial Investment Trust",
+    "Sector": "HoldCo*",
+    "Industry": "HoldCo*"
+  },
+  {
+    "Name": "Harrisons Malayalam",
+    "Sector": "Consumer Goods",
+    "Industry": "Tea & Coffee"
+  },
+  {
+    "Name": "Sintercom India",
+    "Sector": "Automobiles",
+    "Industry": "Auto Ancilliary"
+  },
+  {
+    "Name": "Virinchi",
+    "Sector": "IT",
+    "Industry": "IT - Software"
+  },
+  {
+    "Name": "UCAL",
+    "Sector": "Automobiles",
+    "Industry": "Auto Ancilliary"
+  },
+  {
+    "Name": "South West Pinnacle Exploration",
+    "Sector": "Metal",
+    "Industry": "Mining & Mineral"
+  },
+  {
+    "Name": "Hitech Corporation",
+    "Sector": "Packaging",
+    "Industry": "Packaging"
+  },
+  {
+    "Name": "Almondz Global Securities",
+    "Sector": "Broking",
+    "Industry": "Broking"
+  },
+  {
+    "Name": "Inspirisys Solutions",
+    "Sector": "IT",
+    "Industry": "IT - Software"
+  },
+  {
+    "Name": "Kapston Services",
+    "Sector": "Misc.",
+    "Industry": "Misc."
+  },
+  {
+    "Name": "The Byke Hospitality",
+    "Sector": "Hotels",
+    "Industry": "Hotels"
+  },
+  {
+    "Name": "Mangalam Global Enterprise",
+    "Sector": "Consumer Goods",
+    "Industry": "Edible Oil"
+  },
+  {
+    "Name": "Airan",
+    "Sector": "IT",
+    "Industry": "IT - Software"
+  },
+  {
+    "Name": "Bhagyanagar India",
+    "Sector": "Metal",
+    "Industry": "Mining & Mineral"
+  },
+  {
+    "Name": "GP Petroleums",
+    "Sector": "Chemicals",
+    "Industry": "Commodity Chemicals"
+  },
+  {
+    "Name": "Pasupati Acrylon",
+    "Sector": "Textile",
+    "Industry": "Textile - Yarn/Fabric/Processing"
+  },
+  {
+    "Name": "Lancor Holdings Ltd",
+    "Sector": "Realty",
+    "Industry": "Realty"
+  },
+  {
+    "Name": "Vishwaraj Sugar Industries",
+    "Sector": "Sugar",
+    "Industry": "Sugar"
+  },
+  {
+    "Name": "Euro India Fresh Foods",
+    "Sector": "Consumer Goods",
+    "Industry": "Food Processing"
+  },
+  {
+    "Name": "Medico Remedies",
+    "Sector": "Pharma",
+    "Industry": "Pharma"
+  },
+  {
+    "Name": "Rudrabhishek Enterprises",
+    "Sector": "Infrastructure",
+    "Industry": "Infrastructure"
+  },
+  {
+    "Name": "Omax Autos Ltd",
+    "Sector": "Automobiles",
+    "Industry": "Auto Ancilliary"
+  },
+  {
+    "Name": "Intense Technologies",
+    "Sector": "IT",
+    "Industry": "IT - Software"
+  },
+  {
+    "Name": "Osia Hyper Retail",
+    "Sector": "Retail",
+    "Industry": "Retail"
+  },
+  {
+    "Name": "Manomay Tex India",
+    "Sector": "Textile",
+    "Industry": "Textile - Apparel & Products"
+  },
+  {
+    "Name": "Take Solutions",
+    "Sector": "IT",
+    "Industry": "IT - Software"
+  },
+  {
+    "Name": "Dynemic Products",
+    "Sector": "Chemicals",
+    "Industry": "Commodity Chemicals"
+  },
+  {
+    "Name": "Jay Shree Tea & Industries",
+    "Sector": "Consumer Goods",
+    "Industry": "Tea & Coffee"
+  },
+  {
+    "Name": "NDL Ventures",
+    "Sector": "Media",
+    "Industry": "Movies & TV"
+  },
+  {
+    "Name": "Aries Agro",
+    "Sector": "Fertilizers & Agro Chemicals",
+    "Industry": "Fertilizers & Agro Chemicals"
+  },
+  {
+    "Name": "Mangalam Organics",
+    "Sector": "Fertilizers & Agro Chemicals",
+    "Industry": "Fertilizers & Agro Chemicals"
+  },
+  {
+    "Name": "Sejal Glass",
+    "Sector": "B. Mat*",
+    "Industry": "B. Mat*"
+  },
+  {
+    "Name": "Cords Cable Industries Ltd",
+    "Sector": "Consumer Durables",
+    "Industry": "Consumer Durables"
+  },
+  {
+    "Name": "Coastal Corporation",
+    "Sector": "Misc.",
+    "Industry": "Aquaculture"
+  },
+  {
+    "Name": "Magnum Ventures",
+    "Sector": "Paper",
+    "Industry": "Paper"
+  },
+  {
+    "Name": "McLeod Russel (India)",
+    "Sector": "Consumer Goods",
+    "Industry": "Tea & Coffee"
+  },
+  {
+    "Name": "Maral Overseas",
+    "Sector": "Textile",
+    "Industry": "Textile - Yarn/Fabric/Processing"
+  },
+  {
+    "Name": "Ravinder Heights",
+    "Sector": "Realty",
+    "Industry": "Realty"
+  },
+  {
+    "Name": "Robust Hotels",
+    "Sector": "Hotels",
+    "Industry": "Hotels"
+  },
+  {
+    "Name": "Country Club Hospitality & Holidays Ltd",
+    "Sector": "Hotels",
+    "Industry": "Hotels"
+  },
+  {
+    "Name": "DC Infotech & Communication",
+    "Sector": "Misc.",
+    "Industry": "Trading"
+  },
+  {
+    "Name": "Avonmore Capital & Management Services",
+    "Sector": "Finance",
+    "Industry": "Finance & Investments"
+  },
+  {
+    "Name": "",
+    "Sector": "",
+    "Industry": ""
+  },
+  {
+    "Name": "",
+    "Sector": "",
+    "Industry": ""
+  },
+  {
+    "Name": "",
+    "Sector": "",
+    "Industry": ""
+  },
+  {
+    "Name": "",
+    "Sector": "",
+    "Industry": ""
+  },
+  {
+    "Name": "",
+    "Sector": "",
+    "Industry": ""
+  },
+  {
+    "Name": "",
+    "Sector": "",
+    "Industry": ""
+  },
+  {
+    "Name": "",
+    "Sector": "",
+    "Industry": ""
+  },
+  {
+    "Name": "",
+    "Sector": "",
+    "Industry": ""
+  },
+  {
+    "Name": "",
+    "Sector": "",
+    "Industry": ""
+  },
+  {
+    "Name": "",
+    "Sector": "",
+    "Industry": ""
+  },
+  {
+    "Name": "",
+    "Sector": "",
+    "Industry": ""
+  },
+  {
+    "Name": "",
+    "Sector": "",
+    "Industry": ""
+  }
+]
